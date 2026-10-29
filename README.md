@@ -1,6 +1,6 @@
 # AI phishing website detection
 
-[![CI](https://github.com/Harry1211-web/Dectect-URL-Phishing-with-LLM-pipline/actions/workflows/ci.yml/badge.svg)](https://github.com/Harry1211-web/Dectect-URL-Phishing-with-LLM-pipline/actions/workflows/ci.yml)
+[![CI](https://github.com/Harry1211-web/Detect-URL-Phishing-with-LLM-pipline/actions/workflows/ci.yml/badge.svg)](https://github.com/Harry1211-web/Detect-URL-Phishing-with-LLM-pipline/actions/workflows/ci.yml)
 
 A four-layer system that decides, for a URL a user clicks, whether the website is **phishing**,
 **suspicious** (warn the user) or **clean / safe**. Cheap, exact checks run first; the costly
