@@ -1,0 +1,44 @@
+# Runs the pytest suite on every push and pull request.
+# No paid API is called: LLM keys are blanked, Layer D tests use stubs, and tests that need
+# downloaded data (blocklist feeds, Tranco list) skip themselves.
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      OPENAI_API_KEY: ""
+      ANTHROPIC_API_KEY: ""
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: |
+            requirements-api.txt
+            bff/requirements.txt
+
+      # Same dependencies as the Docker images (CPU torch, API runtime, BFF), plus pytest and
+      # cryptography (TLS host features, tested but not part of the API image)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements-api.txt -r bff/requirements.txt pytest==8.3.3 cryptography==48.0.0
+
+      - name: Run tests
+        run: python -m pytest -q -rs
