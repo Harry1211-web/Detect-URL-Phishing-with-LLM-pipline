@@ -5,6 +5,8 @@
 ├── .github/workflows/ci.yml       CI: runs pytest on push / PR (CPU torch, no paid API calls)
 ├── README.md                      Overview: architecture diagram, principles, structure, quick start
 ├── DIRECTORY_TREE.md              This file: what each folder/file is for
+├── LICENSE                        MIT license of the code (third-party data excluded)
+├── DATA_SOURCES.md                Data sources: usage in the repo, upstream licenses / terms, citations
 │   Local notes (on disk only, listed in .git/info/exclude):
 ├── IMPROVEMENTS_NOTE.md           Optimizations kept / discarded, benchmark table, research contributions
 ├── requirements.txt               Python dependencies (tested versions); DNS / TLS packages only for Layer C experiments

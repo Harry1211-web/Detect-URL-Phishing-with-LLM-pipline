@@ -88,6 +88,7 @@ tests/                   pytest suite (no paid API calls)
 ```
 
 `DIRECTORY_TREE.md` describes every file. `reports/summary.md` holds the result tables.
+`DATA_SOURCES.md` lists the data sources, their licenses and the citations.
 
 ## Quick start
 
@@ -145,3 +146,7 @@ tests/                   pytest suite (no paid API calls)
    - API: only http(s) URLs or bare hosts (`javascript:`, `file:`, blank → 422); per-layer scores
      only with `API_EXPOSE_LAYERS=1` (they would let an attacker tune a URL under the threshold);
      `USE_LLM=0` turns off Layer D.
+
+## License
+
+Code: [MIT](LICENSE). Data from third parties keeps its own terms, see [DATA_SOURCES.md](DATA_SOURCES.md).
