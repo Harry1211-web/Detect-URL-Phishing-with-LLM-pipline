@@ -96,7 +96,7 @@
 │   └── pipeline_demo.ipynb        Demo: URLs set in the first cell -> full A -> D pipeline, verdict and per-layer detail
 ├── docs/
 │   ├── pipeline.svg               Pipeline diagram (Layers A -> D, verdicts)
-│   └── KIEN_TRUC_HE_THONG.docx    Architecture document (Vietnamese): layers, background knowledge, deployment, metrics
+│   └── KIEN_TRUC_HE_THONG.md      Architecture document (Vietnamese): layers, background knowledge, deployment, metrics
 │
 ├── dataset/
 │   ├── brands/                    Brand catalogue: VN brands, international brands, secondary domains
