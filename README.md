@@ -157,7 +157,8 @@ Training data (Oct 2026 feeds) is newer than PhreshPhish (late 2025) and the Cho
   under the threshold).
 - **Docker Compose:** api + bff + hourly blocklist updater, non-root containers.
 - **LLM budget guard:** spend recorded per provider, calls stop at the budget set in `.env`.
-- **Tests:** 99 pytest tests, run by GitHub Actions on every push; no paid API is called.
+- **Tests:** 141 pytest tests, run by GitHub Actions on every push; no paid API is called
+  (13 skip without the downloaded blocklist / Tranco files).
 
 ## Quick start
 
@@ -224,7 +225,7 @@ src/
   layer_c_selection.py   DL then ML selection on validation data
   evaluate_*.py          Pipeline, external, live and shortcut evaluations
 data/                    Language data, Vietnamese test set, blocklist snapshots
-docs/                    Pipeline diagram; architecture and background in Vietnamese (KIEN_TRUC_HE_THONG.md)
+docs/                    Pipeline diagram (pipeline.svg)
 dataset/                 Labelled URLs, brand catalogue, external (PhreshPhish) sets
 models/url_classifier/   Production Layer C and DOM model
 notebooks/               Full experiment notebook and a short demo
