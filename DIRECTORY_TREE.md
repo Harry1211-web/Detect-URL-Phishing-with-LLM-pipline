@@ -2,10 +2,12 @@
 
 ```
 .
+├── .github/workflows/ci.yml       CI: runs pytest on push / PR (CPU torch, no paid API calls)
 ├── README.md                      Overview: architecture diagram, principles, structure, quick start
 ├── DIRECTORY_TREE.md              This file: what each folder/file is for
-│   Local notes (on disk only, listed in .gitignore):
-├── IMPROVEMENTS_NOTE.md           Optimizations kept / discarded, benchmark table, research contributions
+├── LICENSE                        MIT license of the code (third-party data excluded)
+├── DATA_SOURCES.md                Data sources: usage in the repo, upstream licenses / terms, citations
+│   Local notes (on disk only, listed in .git/info/exclude):
 ├── requirements.txt               Python dependencies (tested versions); DNS / TLS packages only for Layer C experiments
 ├── requirements-api.txt           Runtime-only subset for the API image (torch CPU installed separately)
 ├── Dockerfile                     API image: src/, models/url_classifier/, dataset/brands/ (data/ and .env mounted)
@@ -92,8 +94,7 @@
 │                                  val / test / VN evaluation, Layer D, benchmark (keeps outputs)
 │   └── pipeline_demo.ipynb        Demo: URLs set in the first cell -> full A -> D pipeline, verdict and per-layer detail
 ├── docs/
-│   ├── pipeline.svg               Pipeline diagram (Layers A -> D, verdicts)
-│   └── KIEN_TRUC_HE_THONG.docx    Architecture document (Vietnamese): layers, background knowledge, deployment, metrics
+│   └── pipeline.svg               Pipeline diagram (Layers A -> D, verdicts)
 │
 ├── dataset/
 │   ├── brands/                    Brand catalogue: VN brands, international brands, secondary domains
