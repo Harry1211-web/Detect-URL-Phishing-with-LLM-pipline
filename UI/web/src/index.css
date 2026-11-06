@@ -1,0 +1,153 @@
+@import "tailwindcss";
+@import "@fontsource-variable/bricolage-grotesque/wght.css";
+@import "@fontsource/be-vietnam-pro/400.css";
+@import "@fontsource/be-vietnam-pro/600.css";
+@import "@fontsource/be-vietnam-pro/800.css";
+@import "@fontsource/jetbrains-mono/500.css";
+
+/* Always light: stays bright on a projector whatever the system setting.
+   Navy and teal come from the app icon; verdict colors keep white text above 4.5:1 */
+:root {
+  color-scheme: light;
+  --paper: #f2f9fc;
+  --surface: #ffffff;
+  --ink: #0b2a4a;
+  --muted: #48627a;
+  --line: #cbdfe9;
+  --brand: #007f78;
+  --marker: #ffe766;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-clean: #0a7d55;
+  --color-suspicious: #b45309;
+  --color-phishing: #c81e3a;
+  --font-display: "Bricolage Grotesque Variable", "Be Vietnam Pro", system-ui, sans-serif;
+  --font-sans: "Be Vietnam Pro", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+/* URLs are read character by character: ligatures would disguise what is really there */
+.font-mono {
+  font-variant-ligatures: none;
+}
+
+:focus-visible {
+  outline: 3px solid var(--brand);
+  outline-offset: 2px;
+}
+
+/* The bar shows the focus ring for the input inside it */
+.address-bar:focus-within {
+  outline: 3px solid var(--brand);
+  outline-offset: 3px;
+}
+
+.address-bar input:focus-visible {
+  outline: none;
+}
+
+/* Layer rail: a vertical line on phones, a horizontal one from the sm breakpoint */
+.rail-stop {
+  position: relative;
+}
+
+.rail-stop:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 44px;
+  bottom: -24px;
+  left: 21px;
+  width: 3px;
+  background: var(--line);
+}
+
+.rail-stop.is-passed::after {
+  background: var(--brand);
+}
+
+@media (min-width: 40rem) {
+  .rail-stop:not(:last-child)::after {
+    top: 21px;
+    right: -16px;
+    bottom: auto;
+    left: 44px;
+    width: auto;
+    height: 3px;
+  }
+}
+
+/* Loops on purpose: the API reports no progress, so this must not look like any */
+@keyframes stop-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  40% {
+    box-shadow: 0 0 0 7px color-mix(in srgb, var(--brand) 30%, transparent);
+  }
+}
+
+.rail-dot.is-checking {
+  animation: stop-pulse 1.6s ease-in-out infinite;
+}
+
+/* The one orchestrated moment: the verdict opens, then the marker strikes the real domain */
+@keyframes band-open {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+  to {
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+@keyframes marker-draw {
+  from {
+    background-size: 0% 100%;
+  }
+  to {
+    background-size: 100% 100%;
+  }
+}
+
+.verdict-band {
+  animation: band-open 320ms ease-out;
+}
+
+.verdict-band :focus-visible {
+  outline-color: #ffffff;
+}
+
+.real-domain {
+  padding: 0.05em 0.2em;
+  background: linear-gradient(var(--marker), var(--marker)) no-repeat left / 100% 100%;
+  box-decoration-break: clone;
+  animation: marker-draw 650ms ease-out 320ms both;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .verdict-band,
+  .real-domain,
+  .rail-dot.is-checking {
+    animation: none;
+  }
+}

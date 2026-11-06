@@ -42,6 +42,15 @@ services:
       FORWARDED_ALLOW_IPS: "*"
     restart: unless-stopped
 
+  # Serves the web app and the desktop window. Port 5173 must match FE_ORIGINS on the BFF
+  ui:
+    build: ./UI/web
+    image: phishing-ui
+    depends_on: [bff]
+    ports:
+      - "127.0.0.1:5173:80"
+    restart: unless-stopped
+
   # Refreshes the phishing feeds every hour (each feed is only downloaded when due); the API
   # reloads them by itself when data/blocklist/meta.json changes
   updater:

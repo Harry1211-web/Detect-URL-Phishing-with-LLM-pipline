@@ -4,14 +4,26 @@
 .
 ├── .github/workflows/ci.yml       CI: runs pytest on push / PR (CPU torch, no paid API calls)
 ├── README.md                      Overview: architecture diagram, principles, structure, quick start
+├── UI.md                          Technical implementation guide for Frontend (Web App & Desktop Window) via BFF
+├── RUNGUIDE.md                    Setup and run steps for the whole system
+├── start.cmd / start.sh           One command to run the system (Windows / macOS): Docker services, desktop window, web link
+├── TODO.md                        Open tasks and a summary of the finished work
+├── ICCIES2027_Phishing_Detection_Paper.docx  Paper on Springer's proceedings Word template
+├── ICCIES2027_Phishing_Detection_Paper.pdf   PDF export of the paper
+├── ICCIES2027_Phishing_Detection_Paper_TwoColumn.docx  Same paper in an IEEE-style two-column layout
+├── ICCIES2027_Phishing_Detection_Paper_TwoColumn.pdf   PDF export of the two-column version
+├── UI/                            Front ends; they only call the BFF
+│   ├── extension_icon.png / .svg  Source artwork of the app icon
+│   └── web/                       Web scanner and compact desktop page (React, Vite, TypeScript, Tailwind), tests, Dockerfile
 ├── DIRECTORY_TREE.md              This file: what each folder/file is for
 ├── LICENSE                        MIT license of the code (third-party data excluded)
 ├── DATA_SOURCES.md                Data sources: usage in the repo, upstream licenses / terms, citations
 │   Local notes (on disk only, listed in .git/info/exclude):
+├── .claude/skills/                Local Claude Code skills, not in git (third-party with their LICENSE; lean-task is our own token-saving workflow)
 ├── requirements.txt               Python dependencies (tested versions); DNS / TLS packages only for Layer C experiments
 ├── requirements-api.txt           Runtime-only subset for the API image (torch CPU installed separately)
 ├── Dockerfile                     API image: src/, models/url_classifier/, dataset/brands/ (data/ and .env mounted)
-├── docker-compose.yml             api (private network only) + bff (public entry, 127.0.0.1:8080) + updater (hourly)
+├── docker-compose.yml             api (private network only) + bff (public entry, 127.0.0.1:8080) + ui (127.0.0.1:5173) + updater (hourly)
 ├── .dockerignore                  Keeps data, datasets, notebooks, reports and .env out of the image
 ├── .env                           API keys (OPENAI_API_KEY, ANTHROPIC_API_KEY, VT_API_KEY for verification only, optional OPENAI_MODEL) and budgets — not shared
 │
@@ -131,4 +143,6 @@
                                    (label-noise candidates of test / VN / PhreshPhish for hand labelling), layer_c_selection/ =
                                    DL / ML / DOM candidates, feature-group ablation (_network = with DNS / TLS / RDAP), host_lookups.json = network vs
                                    Tranco-only Layer C, benchmark.json = notebook summary, summary.md = result tables)
+    └── paper_experiments/         Runs behind the paper: scripts/ (mount this folder at /exp in the phishing-api image; e1_live.py clean side failed, e1b_live.py redoes it), results/, figures/
+                                   paper_build/ rebuilds the paper: build_springer.py and build_twocol.py (unzip splnproc2510.docm first), render_pdf.sh for PDF
 ```

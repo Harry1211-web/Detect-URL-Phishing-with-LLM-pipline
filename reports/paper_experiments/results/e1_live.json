@@ -1,0 +1,4648 @@
+{
+ "time": "2026-11-04T09:05:40.761885+00:00",
+ "model": "gpt-6-luna",
+ "feed": 296,
+ "feed_on_known_domains": 101,
+ "spend_usd": 0.0092,
+ "details": [
+  {
+   "url": "http://gwvii.buzz/GBfBurPzMw/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.969936,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 61.05
+  },
+  {
+   "url": "http://roblox.com.ss/users/4678596088/profile",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999823,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 51.13
+  },
+  {
+   "url": "http://wtpni.buzz/OVQrLsnOXK/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999439,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 61.13
+  },
+  {
+   "url": "http://xiswn.buzz/yNoWvZLHt/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999656,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 61.31
+  },
+  {
+   "url": "http://536037972066290780107428249612.onlimegreatnesssight.com/f80d23bbfb4b6b8c79fb07b62c9a9fa74f241a93f0f01c07?&thm=adbe536037972066290780107428249612.onlimegreatnesssight.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999985,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 55.43
+  },
+  {
+   "url": "http://bnbone.live",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.906034,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 51.63
+  },
+  {
+   "url": "http://ivmls.buzz/xUIQb/in-en?1102646047198038179&s=wa&t=1793640342&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.996018,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 61.18
+  },
+  {
+   "url": "http://xccsy.buzz/SEufC/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999176,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 61.27
+  },
+  {
+   "url": "http://bnbvf.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.405345,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 10.1
+  },
+  {
+   "url": "http://mzesk.buzz/ULbQynKTJY/in-hi",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999669,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.04
+  },
+  {
+   "url": "http://bepxt.online",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.881921,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.63
+  },
+  {
+   "url": "http://ehevb.buzz/kzHKGpWrpX/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999534,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.9
+  },
+  {
+   "url": "http://uswwo.buzz/RvfMQH/us-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997922,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.28
+  },
+  {
+   "url": "http://cvnyo.buzz/sUbMjuiMlg/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.992418,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.58
+  },
+  {
+   "url": "http://dqxcb.buzz/vLSpjV/j0lifoaqfn-9gEUXvgcmpL3EvDlnXFv6JOBqSW809gTD51BWEL_R5Jh3Z4GQstIafqgn_8l8H2M0oyl0-KZ7TvSXwyRngLqkeWFU-r5yv8/1793617836898",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999926,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.59
+  },
+  {
+   "url": "http://bnbvf.org",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.055682,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.61
+  },
+  {
+   "url": "http://mxlwq.buzz/ZEUxvP/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999594,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.37
+  },
+  {
+   "url": "http://binancecheck.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.365301,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.48
+  },
+  {
+   "url": "http://moysg.buzz/tKKosizTs/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.962372,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.72
+  },
+  {
+   "url": "http://ogawn.buzz/HJpmyZRh/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99715,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.24
+  },
+  {
+   "url": "http://brandonjotos.com/cse5eyb",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.969302,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.75
+  },
+  {
+   "url": "http://hzskg.buzz/hlwpBWDOmq/us-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999691,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.55
+  },
+  {
+   "url": "http://clientportalanddocumentsharing.live/york-983209",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995946,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.84
+  },
+  {
+   "url": "http://lgnig.buzz/tQSbwQdF/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99492,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.1
+  },
+  {
+   "url": "http://xfsoj.buzz/MtRxSeLiR/in-en?1103243421889572671&s=wa&t=1793666530&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.990993,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.75
+  },
+  {
+   "url": "http://sdeyf.buzz/NYgFufqKC/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99976,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.74
+  },
+  {
+   "url": "http://aesfr.buzz/GYHHfqTX/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999692,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.08
+  },
+  {
+   "url": "http://vucqk.buzz/uDjyQnBJ/in-hi",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99957,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.78
+  },
+  {
+   "url": "http://bepxt.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.337012,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.92
+  },
+  {
+   "url": "http://cellw.buzz/qJXJIAPa/695tszv8d0t2mG7P_XTAmmMCfc13nLljWwcXOrXZuXXU1s2ntkQTKKFVg_54Wp2xXoEDE3VVK9E1P4l1DzAXq8KD0n7pvmjI4dzcJW_hfyLiY/1793646989358",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999834,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.17
+  },
+  {
+   "url": "http://fxesq.buzz/qkgPIpIIi/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997499,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.14
+  },
+  {
+   "url": "http://euash.buzz/bLdIa/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.993745,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.56
+  },
+  {
+   "url": "http://fovej.buzz/tejrm/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995742,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.61
+  },
+  {
+   "url": "http://cerroseiep.click",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.856541,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.61
+  },
+  {
+   "url": "http://slpbn.buzz/SoGQqseXD/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998651,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.48
+  },
+  {
+   "url": "http://puuwn.buzz/ibqPU/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998859,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.52
+  },
+  {
+   "url": "http://frtho.buzz/CcemAzHXru/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997972,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 9.77
+  },
+  {
+   "url": "http://uswwo.buzz/thTBEnJJyG/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998761,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.66
+  },
+  {
+   "url": "http://hntgi.buzz/tHGcBhix/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.986712,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.41
+  },
+  {
+   "url": "http://fxumw.buzz/QTxPxJd/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999279,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.73
+  },
+  {
+   "url": "http://ta-tienne.ro/PDFFVIEW/index.html",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.979638,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.17
+  },
+  {
+   "url": "http://dhdro.buzz/HwEbF/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999516,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.99
+  },
+  {
+   "url": "http://slpbn.buzz/IHfCo/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.994109,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.48
+  },
+  {
+   "url": "http://241965046622612380549386199804.onlimegreatnesssight.com/f80d23bbfb4b6b8c79fb07b62c9a9fa74f241a93f0f01c07?&thm=adbe",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999978,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.37
+  },
+  {
+   "url": "http://ohrpr.buzz/DyatG/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995363,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.57
+  },
+  {
+   "url": "http://zzfea.buzz/JVZZxXSK/in-en?1102560105950337351&s=wa&t=1793597411&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.991718,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.35
+  },
+  {
+   "url": "http://xeksw.xyz/NdggfXqvk/zxrem7suzjtECSRt6cWaWYZnNtiirakYrpD7yq2YfR37bq-1KIMA9iEXtXk7W0khM5Q4Vz0aStALoEysWMakw/1793628107236",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99921,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.55
+  },
+  {
+   "url": "http://mydpd.ltwgq.top/track-ch",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999425,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.73
+  },
+  {
+   "url": "http://mxzix.buzz/ruqGE/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.981854,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.5
+  },
+  {
+   "url": "http://lxeqy.buzz/iXAUdN/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999497,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.43
+  },
+  {
+   "url": "http://efonj.buzz/ptTFua/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99903,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.7
+  },
+  {
+   "url": "http://moysg.buzz/EmIMA/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.980244,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.67
+  },
+  {
+   "url": "http://qhxzj.buzz/jLoZSlv/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999487,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.01
+  },
+  {
+   "url": "http://351312.cc",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998775,
+   "llm_verdict": "suspicious",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.69
+  },
+  {
+   "url": "http://rafnl.buzz/LtkqC/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99462,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.65
+  },
+  {
+   "url": "http://xf.gdmaoka.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.975803,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.92
+  },
+  {
+   "url": "http://auipz.buzz/cSglB/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.979273,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.9
+  },
+  {
+   "url": "http://blockincgic.top",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997443,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.88
+  },
+  {
+   "url": "http://tokinim-cdn79-hk5.click",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999253,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.01
+  },
+  {
+   "url": "http://iievi.buzz/AfQPy/in-en?1101782433750516944&s=wa&t=1793507920&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.991538,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.29
+  },
+  {
+   "url": "http://jbvpx.buzz/GOJnL/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999674,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.3
+  },
+  {
+   "url": "http://lifeistruehealthservices.co.za",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.339665,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 8.87
+  },
+  {
+   "url": "http://xeksw.xyz/EPnhobVBA/0lkcmjh9si_fG_2fQs05UfOERA3dxR2gPH5XJOjd5eZDD2wf7_s5yDGQ9q0dGh2DwS8C3zOohgNoGftw014FWHyMXZfZgV9HJV7mlXFR5l-g/1793631151035",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999421,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.51
+  },
+  {
+   "url": "http://binanceverify.live",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_B",
+   "b_flag": true,
+   "c_label": "suspicious",
+   "c_score": 0.998754,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.91
+  },
+  {
+   "url": "http://hqzwm.buzz/KImkL/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.967691,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.77
+  },
+  {
+   "url": "http://binancecheck.online",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.864659,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.8
+  },
+  {
+   "url": "http://njugo.buzz/sZOiIw/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995163,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.49
+  },
+  {
+   "url": "http://aojbr.buzz/OtFhw/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998026,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.05
+  },
+  {
+   "url": "http://ddwpj.buzz/rNYCRKYcvH/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999658,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.21
+  },
+  {
+   "url": "http://jijzs.buzz/sRCqClTGMY/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997692,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.94
+  },
+  {
+   "url": "http://kcush.buzz/UONvpIqzb/in-en6256&s=wa&t=1793456053&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997905,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.56
+  },
+  {
+   "url": "http://auipz.buzz/rkWmh/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.987429,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.96
+  },
+  {
+   "url": "http://bnbet.online",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.824073,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.58
+  },
+  {
+   "url": "http://sushiswap.xyz",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997806,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.91
+  },
+  {
+   "url": "http://zzfea.buzz/uqVeo/in-en?1102283000838945079&s=wa&t=1793589955&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.966498,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.21
+  },
+  {
+   "url": "http://livetec.shop/nl/nl/request-review",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.919772,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.76
+  },
+  {
+   "url": "http://ljmve.buzz/cFhox/in-en?1101371425099957034&s=wa&t=1793517125&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99065,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.72
+  },
+  {
+   "url": "http://shared.washyoakville.com?t=YmlsbGluZ0BtYWNoaW5lcnlwZXRlLmNvbQ",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999175,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 8.58
+  },
+  {
+   "url": "http://store.steamcommunityworkshopcs.com/workshop/AWP-RoyalBullfighter",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995283,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.69
+  },
+  {
+   "url": "http://nrfwo.buzz/TcsnPtHNM/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.990011,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.2
+  },
+  {
+   "url": "http://xwvdb.buzz/MSLJBDjN/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999642,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.64
+  },
+  {
+   "url": "http://lgyls.buzz/LLJsny/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.983072,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.25
+  },
+  {
+   "url": "http://mfqil.buzz/IqWPLc/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999146,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.3
+  },
+  {
+   "url": "http://kywrg.buzz/mXcuiH/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.994621,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.21
+  },
+  {
+   "url": "http://safe365apps.com/AccountSelectionPage/c?c=f7f4c2ae-15da-43ec-b437-0035fb856bb8-c680d5c8-5587-4304-8cb1-ce0daf00a675",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99209,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.47
+  },
+  {
+   "url": "http://lucyr.buzz/SacIkEVCFl/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99582,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.12
+  },
+  {
+   "url": "http://fycak.buzz/TIosGl/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.970413,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.55
+  },
+  {
+   "url": "http://aojbr.buzz/ztwxxTWfJ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999746,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.91
+  },
+  {
+   "url": "http://jcpfp.buzz/zKggsLXs/in-en?1031749694280716646&s=wa&t=1793467448&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998833,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.43
+  },
+  {
+   "url": "http://lrbek.buzz/LHIVJ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.994426,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.05
+  },
+  {
+   "url": "http://rafnl.buzz/YOXhVDQJB/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999474,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.92
+  },
+  {
+   "url": "http://neuom.buzz/pijDbjU/in-en?1101728725895157747&s=wa&t=1793523312&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997771,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.6
+  },
+  {
+   "url": "http://ingresosclientesonline.nosgustan.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999331,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.64
+  },
+  {
+   "url": "http://dnixz.buzz/DWOEx/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995421,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.25
+  },
+  {
+   "url": "http://ogawn.buzz/oICAaE/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.978833,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.65
+  },
+  {
+   "url": "http://digitalinv.aeronationaviation.com/method1/email.html",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999704,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.44
+  },
+  {
+   "url": "http://mgppd.buzz/fKIbxaEZ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.996176,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.17
+  },
+  {
+   "url": "http://lohxc.buzz/IlsVP/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.983056,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.49
+  },
+  {
+   "url": "http://szcwx.buzz/MEPwQAyC/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.991657,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.36
+  },
+  {
+   "url": "http://bvcvh.buzz/RUpRvOvLi/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999734,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.11
+  },
+  {
+   "url": "http://gitrr.buzz/FyMSWcDSBv/in-en?1101739452886298916&s=wa&t=1793539739&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997062,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.16
+  },
+  {
+   "url": "http://smpre.buzz/KfIOPkv/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998574,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.59
+  },
+  {
+   "url": "http://lstfe.buzz/rfBKJZGRGQ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.989012,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.6
+  },
+  {
+   "url": "http://lgnig.buzz/NBmQdlfman/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99324,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.31
+  },
+  {
+   "url": "http://fxesq.buzz/oNTChfgKv/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99977,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.18
+  },
+  {
+   "url": "http://roblox.rw/games/82866880824588/Football-Fusion-3?privateServerLinkCode=70681231116402529116092729004472",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.979019,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 8.6
+  },
+  {
+   "url": "http://nzceb.buzz/KPpdXCuLH/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995387,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.46
+  },
+  {
+   "url": "http://apenasate-hoje2026.lat",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.962301,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.61
+  },
+  {
+   "url": "http://ljmve.buzz/COarVCYdI/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998519,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.13
+  },
+  {
+   "url": "http://myfamilyprime-espace.com",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.579907,
+   "llm_verdict": "suspicious",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 11.23
+  },
+  {
+   "url": "http://uxhne.buzz/OTulUdC/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995695,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.54
+  },
+  {
+   "url": "http://store.workshopcommunityuservotes.com/sharedfiles/filedetails/id=3793622473",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999551,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.76
+  },
+  {
+   "url": "http://mydpd.wgizz.top/track-ch",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999536,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.87
+  },
+  {
+   "url": "http://dgwnu.buzz/ootZcIOn/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995401,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.57
+  },
+  {
+   "url": "http://coinbaseonehelp.com",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.782262,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.79
+  },
+  {
+   "url": "http://iievi.buzz/AYkigEstyK/in-en?1101924677295135633&s=wa&t=1793521235&",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.97335,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.07
+  },
+  {
+   "url": "http://xrrsj.buzz/BJOSClYnd/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99949,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.79
+  },
+  {
+   "url": "http://gpswl.buzz/thfTpCyaa/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.996637,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.03
+  },
+  {
+   "url": "http://webbyhng.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.762197,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.57
+  },
+  {
+   "url": "http://blkwj.buzz/OtXdLh/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99956,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.61
+  },
+  {
+   "url": "http://lqapm.buzz/TklKKaMQ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.98468,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.31
+  },
+  {
+   "url": "http://tpwuf.buzz/MQvSnTj/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995301,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.49
+  },
+  {
+   "url": "http://nrfwo.buzz/UXEsvDQ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998626,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.84
+  },
+  {
+   "url": "http://oqbvb.buzz/DfcHIRviHB/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.989154,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.51
+  },
+  {
+   "url": "http://bepnet.in",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.339549,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 0.5
+  },
+  {
+   "url": "http://euash.buzz/tMjIkmSll/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995052,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.94
+  },
+  {
+   "url": "http://julkq.buzz/NgBsWBWCFP/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999432,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.61
+  },
+  {
+   "url": "http://aandg.buzz/xDQRrAhGJA/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.990833,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.27
+  },
+  {
+   "url": "http://zknci.buzz/LLexumXGJy/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999111,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.25
+  },
+  {
+   "url": "http://wqovg.buzz/alJdbY/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998015,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.9
+  },
+  {
+   "url": "http://tgsna.buzz/xUfoOUuZ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999354,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 14.98
+  },
+  {
+   "url": "http://qdkfb.buzz/phdwXIma/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999641,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.36
+  },
+  {
+   "url": "http://djndg.buzz/vRBnqhfw/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999621,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.36
+  },
+  {
+   "url": "http://legacyknights.bf-nak.com/n/lD1q9CXmyQbGXLaQo7hpP64-2x5fTVJDWBwQWk1hTmY2QUY8VEpJDEAuG_0_XoRb9JPcLXjVEU57wAO45KR_TihNuowwRzJ198",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999758,
+   "llm_verdict": "suspicious",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.76
+  },
+  {
+   "url": "http://wqovg.buzz/igVGmfizU/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997669,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.75
+  },
+  {
+   "url": "http://ijfob.buzz/gHTNqsIg/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998665,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.35
+  },
+  {
+   "url": "http://oqbvb.buzz/FpLDnYpwTt/in-hi",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998403,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.45
+  },
+  {
+   "url": "http://ksbyc.buzz/RtnlyoAOJ/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.993112,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.09
+  },
+  {
+   "url": "http://roblovx.com.es/share?code=54408925083919342413887764625210&type=Profile&source=ProfileShare&gameid=8304191830",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": true,
+   "c_label": "suspicious",
+   "c_score": 0.999007,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.89
+  },
+  {
+   "url": "http://bnbxt.org",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.184443,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.16
+  },
+  {
+   "url": "http://hzcwq.buzz/InuZhadjJk/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.998264,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.78
+  },
+  {
+   "url": "http://jkhgz.buzz/GREGvvDl/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99959,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.24
+  },
+  {
+   "url": "http://wiriu.buzz/VbZZxyxH/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999527,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.61
+  },
+  {
+   "url": "http://lxeqy.buzz/LpAcpD/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.996671,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.22
+  },
+  {
+   "url": "http://hzskg.buzz/bjyfU/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99947,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.06
+  },
+  {
+   "url": "http://djndg.buzz/UkOpqyoSqC/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999766,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.62
+  },
+  {
+   "url": "http://wqreo.buzz/ZkFwFi/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.9936,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.17
+  },
+  {
+   "url": "http://roblox.com.ss/communities/838487772/SHOTERKETU-GIVEAWAYS",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.991522,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 11.18
+  },
+  {
+   "url": "http://fhcgi.xyz/qzfAXBh/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.996458,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.39
+  },
+  {
+   "url": "http://qnsyf.buzz/DJHLIC/in-en21031297030783344680&s=wa&t=17934593198",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999664,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 6.74
+  },
+  {
+   "url": "http://uuxkb.buzz/kTSuhDsJHA/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.99715,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 2.98
+  },
+  {
+   "url": "http://wlpcn.buzz/JfyFABdvKR/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999743,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.05
+  },
+  {
+   "url": "http://uxoyq.buzz/bMrXDNEi/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999523,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 7.23
+  },
+  {
+   "url": "http://ventira.life/css/doc/download.html",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.992512,
+   "llm_verdict": "suspicious",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.72
+  },
+  {
+   "url": "http://coastalrealtyconnections.com/wp-content/uploads/2026/10/bible-readings-1-2.html",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999388,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.47
+  },
+  {
+   "url": "http://hntgi.buzz/rgrAXSwX/zhiouilmmhn8WmfPddI0zRoMWxiloxdoe9fbXZJjw2A8IKk1G-Gw2oV8R_CR6BZHLXRhyHbHHrbFY6qXzZ_9QrRMOhPNm8wdbLBa__fP_DNg/1793680016359",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999631,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.53
+  },
+  {
+   "url": "http://livetec.shop",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.941235,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.86
+  },
+  {
+   "url": "http://iwvlf.buzz/PIJDkNcfVa/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.995857,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.61
+  },
+  {
+   "url": "http://drbill.cc/OSiMIa?k=c7281907e5eb23a7",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997479,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.88
+  },
+  {
+   "url": "http://plqlf.buzz/xYrFNjrg/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.997226,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 14.18
+  },
+  {
+   "url": "http://bepxt.in",
+   "label": "phishing",
+   "verdict": "suspicious",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.570219,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.1
+  },
+  {
+   "url": "http://xefry.buzz/GhrjIgmHfG/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.994868,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 3.54
+  },
+  {
+   "url": "http://iitzu.buzz/rdYyB/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.983636,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 5.94
+  },
+  {
+   "url": "http://v4.bnbvf.com",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "fallback_C",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.999687,
+   "llm_verdict": null,
+   "llm_unusable": true,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 1.61
+  },
+  {
+   "url": "http://oicih.buzz/eGpHhLOI/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.996386,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.04
+  },
+  {
+   "url": "http://mftfd.buzz/xCocrLOx/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.986721,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 4.94
+  },
+  {
+   "url": "http://hhegs.buzz/ryBEpr/in-en",
+   "label": "phishing",
+   "verdict": "phishing",
+   "decided_by": "D_llm",
+   "b_flag": false,
+   "c_label": "suspicious",
+   "c_score": 0.985798,
+   "llm_verdict": "phishing",
+   "llm_unusable": false,
+   "d_keys": [
+    "latency_ms",
+    "timed_out",
+    "verdict"
+   ],
+   "latency_s": 9.66
+  },
+  {
+   "url": [
+    "https://loteriasdominicanas.com/loto-real/loto-pool/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.aftonbladet.se/nyheter/a/kvl77L/daniel-minns-ett-brak-och-ska-flyga-hem-till-sverige",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.xvv1deos.com/hot_screenxv",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://news.10jqka.com.cn/homepage/intro/links",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.mintegral.com/en",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://docs.readthedocs.com/platform/stable/config-file/index.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://gcd.com/whois/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.microsoft.com/en/microsoft-365/onedrive/online-cloud-storage",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.firefox.com/en-US/download/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://news.vanderbilt.edu/research/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.braze.com/resources/reports-and-guides/braze-ai-playbook",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.domaintools.com/events",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.gazzetta.it/premium/interviste/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://info.comodo.com/vendor-vulnerability",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.nikkei.com/markets/kawase/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:71.sound.asc",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://xhopen.com/categories/big-clit",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://osym.gov.tr/2026-dgs-ek-yerlestirme-sonuclari-aciklandi",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://quad9.net/support/faq/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://indianexpress.com/section/weather/ooty-weather-forecast-today/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.notion.com/about",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.nokia.com/energy/mining/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://rspamd.com/pricing",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://alexistogel99.com/register",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.raiffeisen.ru/currency_rates/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://loopme.ai/chartboost/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.imgix.com/customers/chronext",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.gazeta.pl/0,0.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://bitnami.com/trademark",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://brave.com/web-standards-at-brave/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.traveloka.com/en-vn",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.google.com/setprefs?sig=0_0eFP_922Tyan-ICBIVCGldGV1e4%3D&hl=zh-TW&source=homepage&sa=X&ved=2ahUKEwiRj-iQ-u2XAxVp1zgGHR1SDHIQ2ZgBegQIABAG",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://mall.360.cn/shop/item?item_id=5f45ca70a7d0313fcfb02cea&utm_source=guanwang04",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.minecraft.net/en-us",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://home.blog/about/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://fedoraproject.org/spins/budgie",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.google.com/intl/en/policies/terms/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://evernote.com/pdf-convert?t_s=marketing_website",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.ey.com/en_vn",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.nike.com/vn/w/mens-running-shoes-37v7jznik1zy7ok",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.businessinsider.com/secure-news-tips",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.bcg.com/industries/financial-institutions/digital-assets",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://rtbwise.com/privacy-policy.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.epsilon.com/us/insights/resources",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://turkiye.gov.tr/arama?aranan=cumhurbaşkanlığı",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://support.scribd.com/hc/en-us/articles/210129366-Global-Privacy-Policy",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.transip.nl/vps/claude-code",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://life-stream.tv/solutions/solution-for-iptv/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.medallia.com/resource-hub",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.blackberry.com/en/legal/privacy-notice",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.colorado.edu/researchinnovation/research-and-innovation-campus-events",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "http://autodesk.com/partnerships/made-to-make",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www1.wdr.de/index.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.seedtag.com/fr",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.oracle.com/cloud/networking/acceleron/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://xkcd.com/about",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.biblegateway.com/passage/?search=2%20Corinthians%203%3A6&version=NIV",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://ohmy.bid/@mail:info@ohmy.bid",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://meteofrance.com/changement-climatique/quel-climat-futur-dans-votre-region",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.nsf.gov/documents-reports",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.theknot.com/marketplace/wedding-reception-venues-minneapolis-mn",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.sec.gov/search-filings",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://support.adtelligent.com/308617-Advertisers",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.xing.com/jobs/t-sozialarbeiter",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.goguardian.com/policies/product-privacy",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.a1.net/indexanpassung",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.eurekalert.org/specialtopic/climatechange",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.anthropic.com/document/claude-sonnet-5-5-system-card",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://sports.ndtv.com/us-us-streamers/reggie-reveals-judge-ordered-him-to-stay-away-from-kai-cenat-for-12-months-claims-he-was-never-getting-sued-12280718?pfrom=home-ndtv_",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://ya.ru/?nr=1&redirect_ts=1793782933.00000",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.propublica.org/fellowships",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://vnexpress.net/gia-dien-giam-ban-tiet-kiem-duoc-bao-nhieu-5140405.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.meetup.com/sitemap",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.123rf.com:443/contact/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.gov.cn/zhengce/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.aaa.com/International/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://canonical.com/partners/become-a-partner",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://javsub.blog/the-loai/khong-che",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.caixa.gov.br/voce/habitacao/imoveis-venda/Paginas/default.aspx",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://about.zenodo.org/cookie-policy",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.alibaba.com/trade/search?tab=all&has4Tab=true&SearchText=Cars&categoryId=100002957",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.pku.edu.cn/campus.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://aliexpress.ru/promotions/sl/oneplus?fusion=y&hastoolbar=false&pageName=Promotions_1790&presentationmode=push",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://porkbun.com/event/christmas-domain-name-sale",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.vn.kayak.com/?ispredir=true",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://blogs.oracle.com/infrastructure/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.databricks.com/product/data-engineering?itm_data=homepage-pilltabs-explorelakeflow&itm_source=www&itm_category=home&itm_page=home&itm_offer=data-engineering",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.wnacg.com/albums-index-cate-12.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.vice.com/en/category/news/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://mail.google.com/mail/&ogbl",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.nyc.gov/main?m=art-type-id-1.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://go.dev/conduct",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.onetrust.com/content/onetrust/us/en/careers",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.spiegel.de/panorama/michael-jacksons-tochter-fordert-600-millionen-aus-dem-nachlass-fuer-geschwister-und-sich-a-00b5afea-f06c-44ca-a255-a51447d57714",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.tupi.fm/economia/dono-de-uma-fazenda-morre-e-deixa-uma-propriedade-rural-para-quatro-filhos-mas-um-deles-continua-utilizando-sozinho-as-terras-e-descobre-por-que-os-outros-herdeiros-podem-questionar-a-ocupacao-e-pedi/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "http://www.bspb.ru/feedback",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.theblowers.com/ville/ankara/turkiye",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.smh.com.au/goodfood/sydney-eating-out/where-to-eat-on-new-metro-line-sydney-20261104-p61aia.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://search.worldcat.org/lists",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.accenture.com/en",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.unicef.org/emergencies/children-gaza-need-lifesaving-support",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.ubisoft.com/en-sg",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.affirm.com/lenders",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://genius.com/press",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.news18.com/topics/yoga-poses/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.mongodb.com/students",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://codeberg.org/codeberg/org/src/TermsOfUse.md",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.zebra.com/ap/en.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://connectad.io/book-a-demo",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.familysearch.org/en/global",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.bing.com:443/?toWww=1&redig=C9CDCEEC905644E69A0E653BED67B96D",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.wetter.com/skigebiete/schweiz/st-moritz-corviglia-4061/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.markt.de/haus-garten/kamine/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.clarin.com/fama/georgina-barbarossa-recordo-marido-25-anos-asesinato-volvamos-encontrar_0_L0N1uLavHP.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://wsu.edu/about/leadership/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://fonts.adobe.com/?ref=tk.com",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.hyundai.com/worldwide/en",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.pravda.com.ua/articles/2026/11/03/8061044/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.hbomax.com/movie/bcbb6e0d-ca89-43e4-a9b1-2fc728145beb",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.ucloud.cn/site/product/uhybrid.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://web.humoruniv.com/board/humor/read.html?table=fear&st=month&number=84077",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://clinicaltrials.gov/policy",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.rnp.br/chamadas/chamadas-publicas/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.sueddeutsche.de/sport/fc-bayern-sieg-atletico-einzelkritik-champions-league-li.3573904",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.joyn.de/serien/galileo",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.awin.com/case-studies",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.sprinklr.com/products/consumer-intelligence/llm-insights/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.checkpoint.com/infinity/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://kir2kos.net/video/%d8%b3%da%a9%d8%b3-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c-%d9%be%d9%88%d8%b1%d9%86-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c-%d8%b3%da%a9%d8%b3-%d9%88%d8%b7%d9%86%db%8c-%d8%af%d8%a7%d8%ba-iranian-porn-1-878/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.thunderbird.net/en-US/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://asuonline.asu.edu/admission/international/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://kbz0pwvxmv.com/products/tv",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://imgsrc.ru/fotobaza/86031603.html?utm_source=main_reco",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.virtualbox.org/wiki/WikiStart",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://poki.com/en/g/blacktop-police-chase",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.adyen.com/pricing",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://yuga.com/privacy",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.techradar.com/phones/android",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.dailymail.com/games/index.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.google.com/intl/en/policies/privacy/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.espn.com/watch/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.aparat.com/home",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.sfu.ca/dir/a.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.archives.gov/social-media/youtube",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://man7.org/conf/index.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.growthbook.io/customers/todaytix",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://uidai.gov.in/hi/documents",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.f5.com/products/nginx",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.optable.co/solutions/unify-your-identity-data",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.sephora.com/shop/value-sets?icid2=homepage_slideshow_multi-world_animation_holidaypreview0926_fy264949_broadcast_us_rwd_banner_102126_fallback",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.sbb.ch/de",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.flipsnack.com/customers/melissa-and-doug",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.jalan.net/jalan/doc/ranking/?ctm=N11",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.goodreturns.in/latest/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.foxbusiness.com/markets/american-airlines-warns-airfares-stay-elevated-even-oil-prices-drop-after-record-fuel-costs",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.ezoic.com/case-studies",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.above.com/forgotten-pass.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.fraunhofer.de/de/institute/kooperationen/leistungszentren/einzelzelltechnologien.html",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://domaindetails.com/kb",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://modrinth.com/mod/pnode",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://zlib.net/zlib-1.3.2.tar.gz",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://applovin.com/en/ad-experience",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://about.me/press",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://wpastra.com/site-builder/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.theguardian.com/sport/2026/nov/04/qatar-pulls-out-of-hosting-2028-nations-championship-owing-to-middle-east-crisis",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.adobe.com/homepage/fragments/loggedout/redesign/default/explore-whats-new/explore-whats-new",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://walink.com/pt",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.yotpo.com/integrations/shopify/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.compass.com/sell/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.db.com:443/what-we-do/focus-topics/corporate-venture-capital",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.thepoizon.ru/catalog/brand-all",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://apache.org/foundation/members",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://cloud.tencent.com/act",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://pimpbunny.com/videos/cece-rose-shakes-her-big-tits-on-the-bed/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.trellix.com/about/why-trellix/industry-recognitions/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.trulia.com/CA/Carlsbad/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://help.disneyplus.com/article/disneyplus-introduction?utm_source=disneyplus&utm_medium=web&utm_campaign=unauthorized-site-footer&utm_content=introduction",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.netlify.com/platform/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://nypost.com/archaeology/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://sso.passport.yandex.ru/push?uuid=0c6f8640-530f-478d-b7ab-fcd99970b40d&retpath=https%3A%2F%2Fdzen.ru%2F%3Fis_autologin_ya%3Dtrue",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.freelancer.com/innovation",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.innovid.com/resources/reports",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://sarkariresult.com.cm/muit-admissions-online-form-2025/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.liquidweb.com/software/kadence/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.bytedance.com/commitments",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "http://narod.ru/konstruktory-sajtov",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://kb.isc.org/docs/aa-00896",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.screener.in/hs/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.limelight.inc/white-paper-2025",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://hosting.com/domains/all/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://asana.com/it",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.panasonic.com/vn/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.opera.com/?utm_source=opera-mini_net&utm_medium=redirect&utm_campaign=desktop_house_cleaning",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://chaturbate.com/security/",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://wordpress.com/theme/clairevoyant?ref=logged-out-homepage-lp",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://polybuzz.ai/character/chat/bWDqn?recSid=da52a591784ce22c:24cf4c647da1f79d:b50688aa577b30f3:1&chatScene=3&genderTab=all&sceneQueue=GREEN_STORED_MALE&tagId=-1",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://www.google.com/setprefs?sig=0_-f4TN1SqMeATnVILh81fwUV5rm4%3D&hl=fr&source=homepage&sa=X&ved=2ahUKEwiG3omf-u2XAxWakuEIHWZ5JGoQ2ZgBegQIABAF",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  },
+  {
+   "url": [
+    "https://help.match.com/hc/en-us/articles/29802805385243-Colorado-Safety-Policy-Information",
+    "clean"
+   ],
+   "label": "clean",
+   "verdict": null,
+   "decided_by": "error:AttributeError"
+  }
+ ]
+}

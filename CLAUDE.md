@@ -10,6 +10,7 @@ Hướng dẫn cho Claude Code khi làm việc trong repo này.
 - Comment ngắn gọn, dễ hiểu nhưng đầy đủ 
 - Cập nhật DIRECTORY_TREE.md khi cần (ghi ngắn gọn file đó có chức năng gì, folder đó để làm gì)
 - Không được sửa README.md và CLAUDE.md khi chưa được cho phép. Nếu muốn thay đổi nó thì báo cho tôi.
+- Với mọi task thực thi trong repo, dùng skill `lean-task`.
 
 ## Bối cảnh dự án
 

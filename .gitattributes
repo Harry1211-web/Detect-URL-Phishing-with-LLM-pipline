@@ -5,3 +5,6 @@
 *.sh text eol=lf
 Dockerfile text eol=lf
 *.py text eol=lf
+
+# Windows batch files need CRLF
+*.cmd text eol=crlf
