@@ -37,3 +37,9 @@ data/**/*.tmp
 # Front end (UI/web)
 node_modules/
 UI/web/dist/
+
+# Personal notes, report and paper drafts (kept on disk only)
+draft/
+baocao.docx
+BaiBaoKhoaHoc*.pdf
+reports/paper_experiments/paper_build/
