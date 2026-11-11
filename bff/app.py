@@ -75,7 +75,7 @@ app.add_middleware(CORSMiddleware, allow_origins=FE_ORIGINS, allow_methods=["GET
 @app.middleware("http")
 async def limit_body(request: Request, call_next):
     """Bodies are tiny (one URL): refuse large ones before they are read. Chunked bodies without
-    a length are capped by the reverse proxy (DEPLOY.txt)."""
+    a length are capped by the reverse proxy in front of the BFF."""
     try:
         too_big = int(request.headers.get("content-length") or 0) > MAX_BODY_BYTES
     except ValueError:

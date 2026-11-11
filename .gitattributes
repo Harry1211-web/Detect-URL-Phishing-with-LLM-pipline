@@ -1,0 +1,10 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Force LF line endings for scripts and Docker/Python files (even on Windows)
+*.sh text eol=lf
+Dockerfile text eol=lf
+*.py text eol=lf
+
+# Windows batch files need CRLF
+*.cmd text eol=crlf

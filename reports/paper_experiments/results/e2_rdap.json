@@ -1,0 +1,4325 @@
+[
+ {
+  "url": "http://wbet9.net/",
+  "domain": "wbet9.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1575949243.0,
+   "expires": 1796874043.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-12-10"
+ },
+ {
+  "url": "http://my188bet.com/",
+  "domain": "my188bet.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1199637413.0,
+   "expires": 1799253413.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2008-01-06"
+ },
+ {
+  "url": "http://www.pesoloan.ph/",
+  "domain": "pesoloan.ph",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.trangchuroblox.com/",
+  "domain": "trangchuroblox.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1701026902.0,
+   "expires": 1795721302.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-11-27"
+ },
+ {
+  "url": "http://www.partybeiwolfgang.de/",
+  "domain": "partybeiwolfgang.de",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://napzingspeed.com/",
+  "domain": "napzingspeed.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1691017241.0,
+   "expires": 1817247641.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-08-03"
+ },
+ {
+  "url": "http://www.7788997.com/",
+  "domain": "7788997.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1620396361.0,
+   "expires": 1809698761.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-05-07"
+ },
+ {
+  "url": "http://92clubd.com/",
+  "domain": "92clubd.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1646948459.0,
+   "expires": 1836337259.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-11"
+ },
+ {
+  "url": "http://quyetvu.com/",
+  "domain": "quyetvu.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1658590445.0,
+   "expires": 1816356845.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-07-23"
+ },
+ {
+  "url": "http://www.ee88.com/",
+  "domain": "ee88.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1299354311.0,
+   "expires": 1835898311.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2011-03-06"
+ },
+ {
+  "url": "http://www.tikishop.shop/",
+  "domain": "tikishop.shop",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1790358689.0,
+   "expires": 1821916799.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.tiki66.com/",
+  "domain": "tiki66.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1709960951.0,
+   "expires": 1804568951.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-03-09"
+ },
+ {
+  "url": "http://www.thehotlive.com/",
+  "domain": "thehotlive.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1623580695.0,
+   "expires": 1812883095.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-13"
+ },
+ {
+  "url": "http://go98.me/",
+  "domain": "go98.me",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://go88.gg/",
+  "domain": "go88.gg",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://napqua.com/",
+  "domain": "napqua.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1665969176.0,
+   "expires": 1823735576.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-10-17"
+ },
+ {
+  "url": "http://shoptop1liliana.com/",
+  "domain": "shoptop1liliana.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1662707168.0,
+   "expires": 1788937568.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-09-09"
+ },
+ {
+  "url": "http://www.buyaccs.com/",
+  "domain": "buyaccs.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1211574731.0,
+   "expires": 1811104331.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2008-05-24"
+ },
+ {
+  "url": "http://ff.ob28.garenai.com/",
+  "domain": "garenai.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_B",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1664794857.0,
+   "expires": 1822561257.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-10-03"
+ },
+ {
+  "url": "http://kucasino.mobi/",
+  "domain": "kucasino.mobi",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1570707464.112,
+   "expires": 1823168264.112
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-10-10"
+ },
+ {
+  "url": "http://choigamemienphi.net/",
+  "domain": "choigamemienphi.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1502872160.0,
+   "expires": 1818404960.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2017-08-16"
+ },
+ {
+  "url": "http://convertitsearch.com/",
+  "domain": "convertitsearch.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1592894703.0,
+   "expires": 1813733103.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-06-23"
+ },
+ {
+  "url": "http://ku7899.vip/",
+  "domain": "ku7899.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://anygamesearch.com/",
+  "domain": "anygamesearch.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1592894695.0,
+   "expires": 1813733095.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-06-23"
+ },
+ {
+  "url": "http://www.vf023.com/",
+  "domain": "vf023.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1636782486.0,
+   "expires": 1826084886.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-13"
+ },
+ {
+  "url": "http://kickasscracks.com/",
+  "domain": "kickasscracks.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1518412509.0,
+   "expires": 1802409309.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-02-12"
+ },
+ {
+  "url": "http://www.clmm.at/",
+  "domain": "clmm.at",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.daikin.vn/",
+  "domain": "daikin.vn",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.66club.biz/",
+  "domain": "66club.biz",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1620472749.0,
+   "expires": 1841397549.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-05-08"
+ },
+ {
+  "url": "http://www.cltxmomo.com/",
+  "domain": "cltxmomo.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1659593591.0,
+   "expires": 1817359991.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-08-04"
+ },
+ {
+  "url": "http://008484.com/",
+  "domain": "008484.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1669537915.0,
+   "expires": 1858926715.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-11-27"
+ },
+ {
+  "url": "http://halleydragon.com/",
+  "domain": "halleydragon.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1631169947.0,
+   "expires": 1820472347.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-09-09"
+ },
+ {
+  "url": "http://gamevh.net/",
+  "domain": "gamevh.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1405349652.0,
+   "expires": 1815576852.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2014-07-14"
+ },
+ {
+  "url": "http://www.newv88.com/",
+  "domain": "newv88.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1579421195.0,
+   "expires": 1800345995.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-01-19"
+ },
+ {
+  "url": "http://www.365bet.shop/",
+  "domain": "365bet.shop",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "error": 429
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.abcmoney.xyz/",
+  "domain": "abcmoney.xyz",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1687757135.0,
+   "expires": 1814054399.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-06-26"
+ },
+ {
+  "url": "http://www.96bspinadvisor.com/",
+  "domain": "96bspinadvisor.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1602232209.0,
+   "expires": 1823070609.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-10-09"
+ },
+ {
+  "url": "http://www.easystar.co/",
+  "domain": "easystar.co",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.primexbt.com/",
+  "domain": "primexbt.com",
+  "verdict": "clean",
+  "decided_by": "C_classifier",
+  "llm_unusable": null,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1535465158.0,
+   "expires": 1851084358.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-08-28"
+ },
+ {
+  "url": "http://code6789.com/",
+  "domain": "code6789.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1446419718.0,
+   "expires": 1982963718.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2015-11-02"
+ },
+ {
+  "url": "http://www.58win.com/",
+  "domain": "58win.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1138385265.0,
+   "expires": 1810439999.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2006-01-28"
+ },
+ {
+  "url": "http://threebtc.com/",
+  "domain": "threebtc.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1705668083.0,
+   "expires": 1863520883.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-01-19"
+ },
+ {
+  "url": "http://978bet3.com/",
+  "domain": "978bet3.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1598072350.0,
+   "expires": 1913605150.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-08-22"
+ },
+ {
+  "url": "http://iwin68.info/",
+  "domain": "iwin68.info",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1599643982.434,
+   "expires": 1820482382.434
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-09-09"
+ },
+ {
+  "url": "http://www.ymtcc.com/",
+  "domain": "ymtcc.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1715416155.0,
+   "expires": 1810024155.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-05-11"
+ },
+ {
+  "url": "http://www.fika88.com/",
+  "domain": "fika88.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1576481423.0,
+   "expires": 1797406223.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-12-16"
+ },
+ {
+  "url": "http://excentral-int.com/",
+  "domain": "excentral-int.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1565342393.0,
+   "expires": 1817803193.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-08-09"
+ },
+ {
+  "url": "http://www.danhdeonline.top/",
+  "domain": "danhdeonline.top",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1596819630.0,
+   "expires": 1817658030.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-08-08"
+ },
+ {
+  "url": "http://17-inch.de/",
+  "domain": "17-inch.de",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://fb88max.com/",
+  "domain": "fb88max.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1569067477.0,
+   "expires": 1853150677.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-09-21"
+ },
+ {
+  "url": "http://cracklike.com/",
+  "domain": "cracklike.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1610620696.0,
+   "expires": 1799923096.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-01-14"
+ },
+ {
+  "url": "http://www.allegro-task.shop/",
+  "domain": "allegro-task.shop",
+  "verdict": "phishing",
+  "decided_by": "A_blocklist",
+  "llm_unusable": null,
+  "rdap": {
+   "supported": 1,
+   "error": 429
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://i9bet444.com/",
+  "domain": "i9bet444.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1650089460.0,
+   "expires": 1807855860.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-04-16"
+ },
+ {
+  "url": "http://www.xosomomo.co/",
+  "domain": "xosomomo.co",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://vamo.vn/",
+  "domain": "vamo.vn",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://vietnamfb.com/",
+  "domain": "vietnamfb.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1534241569.0,
+   "expires": 1849860769.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-08-14"
+ },
+ {
+  "url": "http://five88.me/",
+  "domain": "five88.me",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://fb88do.com/",
+  "domain": "fb88do.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1596090130.0,
+   "expires": 1816928530.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-07-30"
+ },
+ {
+  "url": "http://phongdophaimanh.com/",
+  "domain": "phongdophaimanh.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1593055206.0,
+   "expires": 1813893606.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-06-25"
+ },
+ {
+  "url": "http://tophanmem.com/",
+  "domain": "tophanmem.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1682360857.0,
+   "expires": 1808591257.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-04-25"
+ },
+ {
+  "url": "http://www.vvinfo1.com/",
+  "domain": "vvinfo1.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1579418739.0,
+   "expires": 1800343539.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-01-19"
+ },
+ {
+  "url": "http://canthologistics.com/",
+  "domain": "canthologistics.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1608874687.0,
+   "expires": 1798177087.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-25"
+ },
+ {
+  "url": "http://www.sky88.win/",
+  "domain": "sky88.win",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1676957413.0,
+   "expires": 1866346213.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://install.stream-all.com/",
+  "domain": "stream-all.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1505117710.0,
+   "expires": 1820650510.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2017-09-11"
+ },
+ {
+  "url": "http://www.ae888vip.com/",
+  "domain": "ae888vip.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1632233755.0,
+   "expires": 1790000155.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-09-21"
+ },
+ {
+  "url": "http://www.vnfb.com/",
+  "domain": "vnfb.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1111390283.0,
+   "expires": 1837233083.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2005-03-21"
+ },
+ {
+  "url": "http://fuzzypn.me/",
+  "domain": "fuzzypn.me",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://socolive.org/",
+  "domain": "socolive.org",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1638847814.291,
+   "expires": 1828150214.291
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-12-07"
+ },
+ {
+  "url": "http://gkfxprime.com/",
+  "domain": "gkfxprime.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1415000366.0,
+   "expires": 1825227566.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2014-11-03"
+ },
+ {
+  "url": "http://www.shuzikefu.net/",
+  "domain": "shuzikefu.net",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1648525494.0,
+   "expires": 1806291894.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-29"
+ },
+ {
+  "url": "http://app.gocashouts.com/",
+  "domain": "gocashouts.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1597762918.0,
+   "expires": 1818601318.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-08-18"
+ },
+ {
+  "url": "http://kashi.vn/",
+  "domain": "kashi.vn",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://kenh29.com/",
+  "domain": "kenh29.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1672201430.0,
+   "expires": 1798431830.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-12-28"
+ },
+ {
+  "url": "http://globexm.com/",
+  "domain": "globexm.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1713186292.0,
+   "expires": 1807794292.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-04-15"
+ },
+ {
+  "url": "http://iwin68.club/",
+  "domain": "iwin68.club",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1760930559.0,
+   "expires": 1792466559.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://tokke.de/",
+  "domain": "tokke.de",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.xoso9988.com/",
+  "domain": "xoso9988.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1636289514.0,
+   "expires": 1825591914.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-07"
+ },
+ {
+  "url": "http://clmm.cafe/",
+  "domain": "clmm.cafe",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1672833071.324,
+   "expires": 1799063471.324
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-01-04"
+ },
+ {
+  "url": "http://twin68.biz/",
+  "domain": "twin68.biz",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1772275044.0,
+   "expires": 1803811044.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://tdtca.com/",
+  "domain": "tdtca.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1615807741.0,
+   "expires": 1805110141.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-03-15"
+ },
+ {
+  "url": "http://shbetvn.net/",
+  "domain": "shbetvn.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1646749051.0,
+   "expires": 1804515451.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-08"
+ },
+ {
+  "url": "http://zmaterials.com/",
+  "domain": "zmaterials.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1678389108.0,
+   "expires": 1804619508.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-03-10"
+ },
+ {
+  "url": "http://www.visame.vn/",
+  "domain": "visame.vn",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://qua-tang.vn/",
+  "domain": "qua-tang.vn",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.moonlive.digital/",
+  "domain": "moonlive.digital",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1630652570.249,
+   "expires": 1788418970.249
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-09-03"
+ },
+ {
+  "url": "http://hotlive5.live/",
+  "domain": "hotlive5.live",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607843178.811,
+   "expires": 1828681578.811
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-13"
+ },
+ {
+  "url": "http://www.daominhha.net/",
+  "domain": "daominhha.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1605625735.0,
+   "expires": 1794928135.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-11-17"
+ },
+ {
+  "url": "http://www.muahack.com/",
+  "domain": "muahack.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1554004922.0,
+   "expires": 1838088122.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-03-31"
+ },
+ {
+  "url": "http://www.choirikvip.me/",
+  "domain": "choirikvip.me",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.credy.vn/",
+  "domain": "credy.vn",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.dong247.com/",
+  "domain": "dong247.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1601216170.0,
+   "expires": 1822054570.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-09-27"
+ },
+ {
+  "url": "http://zroet.com/",
+  "domain": "zroet.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1701850523.0,
+   "expires": 1828080923.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-12-06"
+ },
+ {
+  "url": "http://krilex.net/",
+  "domain": "krilex.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1665511066.0,
+   "expires": 1823277466.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-10-12"
+ },
+ {
+  "url": "http://www.startcrack.com/",
+  "domain": "startcrack.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1626546920.0,
+   "expires": 1815849320.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-07-18"
+ },
+ {
+  "url": "http://betlv.com/",
+  "domain": "betlv.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1102283092.0,
+   "expires": 1828043092.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2004-12-06"
+ },
+ {
+  "url": "http://csrworldwide.com/",
+  "domain": "csrworldwide.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1690308345.0,
+   "expires": 1816538745.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-07-26"
+ },
+ {
+  "url": "http://www.bblive7.com/",
+  "domain": "bblive7.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1623254452.0,
+   "expires": 1812556852.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-09"
+ },
+ {
+  "url": "http://tt7788.vip/",
+  "domain": "tt7788.vip",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1763448184.0,
+   "expires": 1794984184.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.bf9.net/",
+  "domain": "bf9.net",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1714156736.0,
+   "expires": 1808764736.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.searchconverterit.com/",
+  "domain": "searchconverterit.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607407704.0,
+   "expires": 1796710104.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-08"
+ },
+ {
+  "url": "http://www.sunwin.games/",
+  "domain": "sunwin.games",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1702279527.982,
+   "expires": 1796973927.982
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-12-11"
+ },
+ {
+  "url": "http://www.924vn.com/",
+  "domain": "924vn.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1625224546.0,
+   "expires": 1846149346.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-07-02"
+ },
+ {
+  "url": "http://analaticsno.xtgem.com/",
+  "domain": "xtgem.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1163597630.0,
+   "expires": 1826285630.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2006-11-15"
+ },
+ {
+  "url": "http://keonhacai68.com/",
+  "domain": "keonhacai68.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1689143378.0,
+   "expires": 1815373778.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-07-12"
+ },
+ {
+  "url": "http://fcb8.vip/",
+  "domain": "fcb8.vip",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1599202901.0,
+   "expires": 1820041301.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-09-04"
+ },
+ {
+  "url": "http://balamall.shop/",
+  "domain": "balamall.shop",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "error": 429
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.chovaytienhcm247.com/",
+  "domain": "chovaytienhcm247.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1679279455.0,
+   "expires": 1805509855.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-03-20"
+ },
+ {
+  "url": "http://www.78win.vn/",
+  "domain": "78win.vn",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://cr599.vip/",
+  "domain": "cr599.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1691773213.0,
+   "expires": 1818003613.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-08-12"
+ },
+ {
+  "url": "http://www.binhchon.me/",
+  "domain": "binhchon.me",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.vebo.live/",
+  "domain": "vebo.live",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1635974559.662,
+   "expires": 1825276959.662
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-04"
+ },
+ {
+  "url": "http://optimagroup.sg/",
+  "domain": "optimagroup.sg",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607627804.0,
+   "expires": 1828466204.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-11"
+ },
+ {
+  "url": "http://win55.me/",
+  "domain": "win55.me",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://qqlive.vip/",
+  "domain": "qqlive.vip",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1615116551.0,
+   "expires": 1804418951.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.chapcanhnhantai.com/",
+  "domain": "chapcanhnhantai.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1673540454.0,
+   "expires": 1831306854.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-01-12"
+ },
+ {
+  "url": "http://www.bestbuyinfo.com/",
+  "domain": "bestbuyinfo.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1741157797.0,
+   "expires": 1804229797.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://iwin17.vip/",
+  "domain": "iwin17.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1623229295.0,
+   "expires": 1812531695.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.napkimcuongfreefire.net/",
+  "domain": "napkimcuongfreefire.net",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1605069799.0,
+   "expires": 1825908199.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-11-11"
+ },
+ {
+  "url": "http://www.choang.vip/",
+  "domain": "choang.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1595931638.0,
+   "expires": 1816770038.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-07-28"
+ },
+ {
+  "url": "http://www.baoxinviec.com/",
+  "domain": "baoxinviec.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1551412206.0,
+   "expires": 1930103406.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-03-01"
+ },
+ {
+  "url": "http://longprogl.mov.mn/",
+  "domain": "mov.mn",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.startpoints.top/",
+  "domain": "startpoints.top",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607932059.0,
+   "expires": 1797234459.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-14"
+ },
+ {
+  "url": "http://www.123b.com/",
+  "domain": "123b.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1038642274.0,
+   "expires": 1827560674.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2002-11-30"
+ },
+ {
+  "url": "http://go88.is/",
+  "domain": "go88.is",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1688275500.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-07-02"
+ },
+ {
+  "url": "http://center88.com/",
+  "domain": "center88.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1554959794.0,
+   "expires": 1807420594.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-04-11"
+ },
+ {
+  "url": "http://findo.vn/",
+  "domain": "findo.vn",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://789d.club/",
+  "domain": "789d.club",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1617920230.0,
+   "expires": 1807222630.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-04-09"
+ },
+ {
+  "url": "http://fx4u.io/",
+  "domain": "fx4u.io",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://hotlive8.net/",
+  "domain": "hotlive8.net",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607062102.0,
+   "expires": 1827900502.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-04"
+ },
+ {
+  "url": "http://www.chichlive.com/",
+  "domain": "chichlive.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1647932592.0,
+   "expires": 1805698992.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-22"
+ },
+ {
+  "url": "http://danhbaibk8.com/",
+  "domain": "danhbaibk8.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1602127752.0,
+   "expires": 1854588552.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-10-08"
+ },
+ {
+  "url": "http://www.shoppkk.com/",
+  "domain": "shoppkk.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1700642944.0,
+   "expires": 1795337344.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.bfoodmap.com/",
+  "domain": "bfoodmap.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1671352868.0,
+   "expires": 1797583268.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://primexbt.com/",
+  "domain": "primexbt.com",
+  "verdict": "clean",
+  "decided_by": "C_classifier",
+  "llm_unusable": null,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1535465158.0,
+   "expires": 1851084358.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-08-28"
+ },
+ {
+  "url": "http://aloquangcao.net/",
+  "domain": "aloquangcao.net",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1464249277.0,
+   "expires": 1811318077.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2016-05-26"
+ },
+ {
+  "url": "http://www.crackbros.com/",
+  "domain": "crackbros.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1510153840.0,
+   "expires": 1794150640.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2017-11-08"
+ },
+ {
+  "url": "http://42fvsn9.cn/",
+  "domain": "42fvsn9.cn",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://nrochanle.com/",
+  "domain": "nrochanle.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1657821777.0,
+   "expires": 1815588177.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-07-15"
+ },
+ {
+  "url": "http://tiki66.com/",
+  "domain": "tiki66.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1709960951.0,
+   "expires": 1804568951.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-03-09"
+ },
+ {
+  "url": "http://dongthaplogistics.com/",
+  "domain": "dongthaplogistics.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1669784114.0,
+   "expires": 1796014514.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-11-30"
+ },
+ {
+  "url": "http://iwinclub.me/",
+  "domain": "iwinclub.me",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.shopeev.com/",
+  "domain": "shopeev.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_B",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1773832609.0,
+   "expires": 1805368609.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.24hs.net/",
+  "domain": "24hs.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1624715306.0,
+   "expires": 1814017706.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-26"
+ },
+ {
+  "url": "http://binanceup.com/",
+  "domain": "binanceup.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1711485319.0,
+   "expires": 1806093319.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-03-27"
+ },
+ {
+  "url": "http://phanmemshare.com/",
+  "domain": "phanmemshare.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1615779349.0,
+   "expires": 1805081749.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-03-15"
+ },
+ {
+  "url": "http://vitemac.com/",
+  "domain": "vitemac.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1702112474.0,
+   "expires": 1796806874.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-12-09"
+ },
+ {
+  "url": "http://www.xoso6622.com/",
+  "domain": "xoso6622.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1636289293.0,
+   "expires": 1825591693.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-07"
+ },
+ {
+  "url": "http://www.sunwinvn.club/",
+  "domain": "sunwinvn.club",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1732701886.0,
+   "expires": 1827309886.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.3650022.com/",
+  "domain": "3650022.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1389859886.0,
+   "expires": 1800087086.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2014-01-16"
+ },
+ {
+  "url": "http://www.alttcoin.com/",
+  "domain": "alttcoin.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1648447983.0,
+   "expires": 1806214383.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-28"
+ },
+ {
+  "url": "http://www.tintinvay.com/",
+  "domain": "tintinvay.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1664769628.0,
+   "expires": 1822536028.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-10-03"
+ },
+ {
+  "url": "http://www.ckxing.com/",
+  "domain": "ckxing.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1668452700.0,
+   "expires": 1794683100.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-11-15"
+ },
+ {
+  "url": "http://www.vn58zamo.app/",
+  "domain": "vn58zamo.app",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1647062975.52,
+   "expires": 1836451775.52
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-12"
+ },
+ {
+  "url": "http://www.viso.love/",
+  "domain": "viso.love",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1627114816.0,
+   "expires": 1816473599.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-07-24"
+ },
+ {
+  "url": "http://kubet88.to/",
+  "domain": "kubet88.to",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1637861263.0,
+   "expires": 1795627663.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-26"
+ },
+ {
+  "url": "http://kubet3.win/",
+  "domain": "kubet3.win",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1609659548.0,
+   "expires": 1798961948.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.phiendichtiengnga.net/",
+  "domain": "phiendichtiengnga.net",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1530848191.0,
+   "expires": 1814844991.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-07-06"
+ },
+ {
+  "url": "http://nemo88.com/",
+  "domain": "nemo88.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1554959792.0,
+   "expires": 1807420592.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-04-11"
+ },
+ {
+  "url": "http://www.xianshangzixun.com/",
+  "domain": "xianshangzixun.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1648524242.0,
+   "expires": 1806290642.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-29"
+ },
+ {
+  "url": "http://blognhacai.com/",
+  "domain": "blognhacai.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1438047135.0,
+   "expires": 1816738335.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2015-07-28"
+ },
+ {
+  "url": "http://btcrocket.net/",
+  "domain": "btcrocket.net",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1627926391.0,
+   "expires": 1817228791.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-08-03"
+ },
+ {
+  "url": "http://www.shopbacgau.vn/",
+  "domain": "shopbacgau.vn",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://uu88.com/",
+  "domain": "uu88.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1021552970.0,
+   "expires": 1936701770.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2002-05-16"
+ },
+ {
+  "url": "http://vicq.live/",
+  "domain": "vicq.live",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1590737147.015,
+   "expires": 1843197947.015
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-05-29"
+ },
+ {
+  "url": "http://www.611club.com/",
+  "domain": "611club.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1620473695.0,
+   "expires": 1841398495.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-05-08"
+ },
+ {
+  "url": "http://www.0000a.net/",
+  "domain": "0000a.net",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1615884997.0,
+   "expires": 1805187397.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-03-16"
+ },
+ {
+  "url": "http://mstatik.com/",
+  "domain": "mstatik.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1564391141.0,
+   "expires": 1816851941.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-07-29"
+ },
+ {
+  "url": "http://4482vn.com/",
+  "domain": "4482vn.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1625225573.0,
+   "expires": 1846150373.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-07-02"
+ },
+ {
+  "url": "http://bblive58.com/",
+  "domain": "bblive58.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1623254463.0,
+   "expires": 1812556863.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-09"
+ },
+ {
+  "url": "http://vb211.com/",
+  "domain": "vb211.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1603698471.0,
+   "expires": 1824536871.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-10-26"
+ },
+ {
+  "url": "http://www.viaads24h.com/",
+  "domain": "viaads24h.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1613833556.0,
+   "expires": 1803135956.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-02-20"
+ },
+ {
+  "url": "http://wish-vip.com/",
+  "domain": "wish-vip.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1787071453.0,
+   "expires": 1881765853.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://zfx.com/",
+  "domain": "zfx.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 729493200.0,
+   "expires": 1991883600.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "1993-02-12"
+ },
+ {
+  "url": "http://www.chanlemomo.co/",
+  "domain": "chanlemomo.co",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.3547700.com/",
+  "domain": "3547700.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1625026893.0,
+   "expires": 1814329293.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-30"
+ },
+ {
+  "url": "http://www.topclubs.io/",
+  "domain": "topclubs.io",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.cashboom.io/",
+  "domain": "cashboom.io",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.soicau2471.me/",
+  "domain": "soicau2471.me",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.vvaln.com/",
+  "domain": "vvaln.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1646358318.0,
+   "expires": 1804124718.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-03-04"
+ },
+ {
+  "url": "http://ctylotus.com/",
+  "domain": "ctylotus.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1657367672.0,
+   "expires": 1815134072.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-07-09"
+ },
+ {
+  "url": "http://www.vi88cool.com/",
+  "domain": "vi88cool.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1579421176.0,
+   "expires": 1800345976.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-01-19"
+ },
+ {
+  "url": "http://y8878.com/",
+  "domain": "y8878.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1709659834.0,
+   "expires": 1804267834.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2024-03-06"
+ },
+ {
+  "url": "http://uezmarkets.com/",
+  "domain": "uezmarkets.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607064065.0,
+   "expires": 1827902465.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-04"
+ },
+ {
+  "url": "http://www.92lottery.club/",
+  "domain": "92lottery.club",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1624452913.0,
+   "expires": 1845377713.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-23"
+ },
+ {
+  "url": "http://www.tt128.net/",
+  "domain": "tt128.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1582166478.0,
+   "expires": 1803091278.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-02-20"
+ },
+ {
+  "url": "http://kamo.vn/",
+  "domain": "kamo.vn",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.ww88club.com/",
+  "domain": "ww88club.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1507381555.0,
+   "expires": 1822914355.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.bet88.co/",
+  "domain": "bet88.co",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.bk8app.net/",
+  "domain": "bk8app.net",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1612856431.0,
+   "expires": 1802158831.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-02-09"
+ },
+ {
+  "url": "http://www.dlmiyun.com/",
+  "domain": "dlmiyun.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1429257501.0,
+   "expires": 1807948701.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2015-04-17"
+ },
+ {
+  "url": "http://clmm.at/",
+  "domain": "clmm.at",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://infivest.fr/",
+  "domain": "infivest.fr",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1106815844.0,
+   "expires": 1801039844.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2005-01-27"
+ },
+ {
+  "url": "http://www.daikinvietnam.vn/",
+  "domain": "daikinvietnam.vn",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://rik89.club/",
+  "domain": "rik89.club",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1782200540.0,
+   "expires": 1813736540.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://kefuzixun.net/",
+  "domain": "kefuzixun.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1626406343.0,
+   "expires": 1815708743.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-07-16"
+ },
+ {
+  "url": "http://www.nbet.com/",
+  "domain": "nbet.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1020277319.0,
+   "expires": 1809195719.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2002-05-02"
+ },
+ {
+  "url": "http://phiendichtienghanquoc.com/",
+  "domain": "phiendichtienghanquoc.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1532576667.0,
+   "expires": 1816573467.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-07-26"
+ },
+ {
+  "url": "http://winsbank.io/",
+  "domain": "winsbank.io",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.delta-searches.com/",
+  "domain": "delta-searches.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1380533696.0,
+   "expires": 1853919296.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2013-09-30"
+ },
+ {
+  "url": "http://garenai.com/",
+  "domain": "garenai.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_B",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1664794857.0,
+   "expires": 1822561257.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-10-03"
+ },
+ {
+  "url": "http://bestbuyinfo.com/",
+  "domain": "bestbuyinfo.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1741157797.0,
+   "expires": 1804229797.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://hcm660.com/",
+  "domain": "hcm660.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1673443256.0,
+   "expires": 1799673656.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-01-11"
+ },
+ {
+  "url": "http://www.moonlive.cloud/",
+  "domain": "moonlive.cloud",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1632325936.617,
+   "expires": 1790092336.617
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-09-22"
+ },
+ {
+  "url": "http://cashberry.vn/",
+  "domain": "cashberry.vn",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.ai.marketing/",
+  "domain": "ai.marketing",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1444298565.92,
+   "expires": 1822989765.92
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2015-10-08"
+ },
+ {
+  "url": "http://clmm.ae/",
+  "domain": "clmm.ae",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://b29.bet/",
+  "domain": "b29.bet",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1624120710.01,
+   "expires": 1813423110.01
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-19"
+ },
+ {
+  "url": "http://www.edunetworks.com.vn/",
+  "domain": "edunetworks.com.vn",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://v88ag.com/",
+  "domain": "v88ag.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1554959053.0,
+   "expires": 1807419853.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-04-11"
+ },
+ {
+  "url": "http://www.ebola-virus.org/",
+  "domain": "ebola-virus.org",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1460941400.663,
+   "expires": 1808010200.663
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2016-04-18"
+ },
+ {
+  "url": "http://www.crackvstpro.com/",
+  "domain": "crackvstpro.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1698776540.0,
+   "expires": 1825006940.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-11-01"
+ },
+ {
+  "url": "http://sieukeo.vip/",
+  "domain": "sieukeo.vip",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1617217504.0,
+   "expires": 1806519904.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://pfk100.com/",
+  "domain": "pfk100.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1451590627.0,
+   "expires": 1798745827.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2016-01-01"
+ },
+ {
+  "url": "http://www.vietjetair.net.vn/",
+  "domain": "vietjetair.net.vn",
+  "verdict": "phishing",
+  "decided_by": "fallback_B",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.fb88sg.com/",
+  "domain": "fb88sg.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1593776903.0,
+   "expires": 1814615303.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-07-03"
+ },
+ {
+  "url": "http://napcard.net/",
+  "domain": "napcard.net",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1510460441.0,
+   "expires": 1825993241.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2017-11-12"
+ },
+ {
+  "url": "http://www.vin.club/",
+  "domain": "vin.club",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1631337183.0,
+   "expires": 1820639583.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://bficnetwork.com/",
+  "domain": "bficnetwork.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1628537794.0,
+   "expires": 1817840194.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://tcglottvn.com/",
+  "domain": "tcglottvn.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1605246312.0,
+   "expires": 1826084712.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-11-13"
+ },
+ {
+  "url": "http://www.ee66.club/",
+  "domain": "ee66.club",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1629542179.0,
+   "expires": 1818844579.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-08-21"
+ },
+ {
+  "url": "http://www.xs68.com/",
+  "domain": "xs68.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1305400478.0,
+   "expires": 1841944478.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2011-05-15"
+ },
+ {
+  "url": "http://lotuswallets.com/",
+  "domain": "lotuswallets.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1590728038.0,
+   "expires": 1811566438.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-05-29"
+ },
+ {
+  "url": "http://www.b52.club/",
+  "domain": "b52.club",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1587080650.0,
+   "expires": 1902613450.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-04-17"
+ },
+ {
+  "url": "http://www.shopnickre24h.com/",
+  "domain": "shopnickre24h.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1511621149.0,
+   "expires": 1827153949.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2017-11-25"
+ },
+ {
+  "url": "http://www.vicq.live/",
+  "domain": "vicq.live",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1590737147.015,
+   "expires": 1843197947.015
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-05-29"
+ },
+ {
+  "url": "http://vayfast.com.vn/",
+  "domain": "vayfast.com.vn",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.cs9.io/",
+  "domain": "cs9.io",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://ibongdanews.com/",
+  "domain": "ibongdanews.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1609906273.0,
+   "expires": 1799208673.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-01-06"
+ },
+ {
+  "url": "http://www.vip88.us/",
+  "domain": "vip88.us",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.88online.me/",
+  "domain": "88online.me",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://autogame24h.com/",
+  "domain": "autogame24h.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1614543020.0,
+   "expires": 1803845420.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-03-01"
+ },
+ {
+  "url": "http://www.viva24x7.com/",
+  "domain": "viva24x7.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1554769469.0,
+   "expires": 1807230269.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-04-09"
+ },
+ {
+  "url": "http://www.socolive.org/",
+  "domain": "socolive.org",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1638847814.291,
+   "expires": 1828150214.291
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-12-07"
+ },
+ {
+  "url": "http://cdgglobalfx.com/",
+  "domain": "cdgglobalfx.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1567392095.0,
+   "expires": 1819852895.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-09-02"
+ },
+ {
+  "url": "http://giaitrihi88.com/",
+  "domain": "giaitrihi88.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1655028639.0,
+   "expires": 1812795039.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-06-12"
+ },
+ {
+  "url": "http://www.phemex.shop/",
+  "domain": "phemex.shop",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1784136195.0,
+   "expires": 1815695999.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.fa88.online/",
+  "domain": "fa88.online",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1570502382.0,
+   "expires": 1823039999.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-10-08"
+ },
+ {
+  "url": "http://jun88.com/",
+  "domain": "jun88.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1533147140.0,
+   "expires": 1980071999.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-08-02"
+ },
+ {
+  "url": "http://thethaofb88.com/",
+  "domain": "thethaofb88.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1511636909.0,
+   "expires": 1795633709.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2017-11-26"
+ },
+ {
+  "url": "http://www.coinmega.com/",
+  "domain": "coinmega.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1525284874.0,
+   "expires": 1840904074.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-05-03"
+ },
+ {
+  "url": "http://fblaz.com/",
+  "domain": "fblaz.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1703757608.0,
+   "expires": 1798452008.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-12-28"
+ },
+ {
+  "url": "http://www.sunwin88.us/",
+  "domain": "sunwin88.us",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://xosomomo.co/",
+  "domain": "xosomomo.co",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.bitcoinf.org/",
+  "domain": "bitcoinf.org",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1654219810.945,
+   "expires": 1843608610.945
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-06-03"
+ },
+ {
+  "url": "http://moonlive.today/",
+  "domain": "moonlive.today",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1631791820.335,
+   "expires": 1789558220.335
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-09-16"
+ },
+ {
+  "url": "http://autocloudmining.com/",
+  "domain": "autocloudmining.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1649494128.0,
+   "expires": 1807260528.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-04-09"
+ },
+ {
+  "url": "http://6mmlive.vip/",
+  "domain": "6mmlive.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1636025165.0,
+   "expires": 1793791565.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-04"
+ },
+ {
+  "url": "http://www.emovieplan.net/",
+  "domain": "emovieplan.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1657764838.0,
+   "expires": 1815531238.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-07-14"
+ },
+ {
+  "url": "http://nuoilokhung247.com/",
+  "domain": "nuoilokhung247.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1517979403.0,
+   "expires": 1801976203.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-02-07"
+ },
+ {
+  "url": "http://lucky88.live/",
+  "domain": "lucky88.live",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1553401154.093,
+   "expires": 1805861954.093
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-03-24"
+ },
+ {
+  "url": "http://92lottery.com/",
+  "domain": "92lottery.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1557092845.0,
+   "expires": 1841176045.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-05-06"
+ },
+ {
+  "url": "http://www.playgo88.vip/",
+  "domain": "playgo88.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1762126513.0,
+   "expires": 1793662513.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://vf023.com/",
+  "domain": "vf023.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1636782486.0,
+   "expires": 1826084886.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-11-13"
+ },
+ {
+  "url": "http://install.mystreamssearch.com/",
+  "domain": "mystreamssearch.com",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1603975819.0,
+   "expires": 1824814219.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-10-29"
+ },
+ {
+  "url": "http://vv4ever.com/",
+  "domain": "vv4ever.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1579418727.0,
+   "expires": 1800343527.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-01-19"
+ },
+ {
+  "url": "http://vn88.io/",
+  "domain": "vn88.io",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://ayuwage.com/",
+  "domain": "ayuwage.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1267172817.0,
+   "expires": 1803630417.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2010-02-26"
+ },
+ {
+  "url": "http://www.thegarenagiare.com/",
+  "domain": "thegarenagiare.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1615694923.0,
+   "expires": 1804997323.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-03-14"
+ },
+ {
+  "url": "http://www.nationalwealthcenter.com/",
+  "domain": "nationalwealthcenter.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1403530769.0,
+   "expires": 1813757969.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2014-06-23"
+ },
+ {
+  "url": "http://www.ku711.com/",
+  "domain": "ku711.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1537258101.0,
+   "expires": 1821254901.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-09-18"
+ },
+ {
+  "url": "http://mivay.vn/",
+  "domain": "mivay.vn",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://nhacaiuytin247.me/",
+  "domain": "nhacaiuytin247.me",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.sin88.biz/",
+  "domain": "sin88.biz",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1550729585.0,
+   "expires": 1803190385.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://georgie.at/",
+  "domain": "georgie.at",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.oxbet.net/",
+  "domain": "oxbet.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1579985713.0,
+   "expires": 1864068913.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-01-26"
+ },
+ {
+  "url": "http://www.soicauviet.com/",
+  "domain": "soicauviet.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1478773385.0,
+   "expires": 1920536585.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2016-11-10"
+ },
+ {
+  "url": "http://www.zaixianvip.net/",
+  "domain": "zaixianvip.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1626170033.0,
+   "expires": 1815472433.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-07-13"
+ },
+ {
+  "url": "http://taib29.bet/",
+  "domain": "taib29.bet",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1624349431.057,
+   "expires": 1813651831.057
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-06-22"
+ },
+ {
+  "url": "http://88online.me/",
+  "domain": "88online.me",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.7788567.com/",
+  "domain": "7788567.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1620396361.0,
+   "expires": 1809698761.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-05-07"
+ },
+ {
+  "url": "http://z789bet.com/",
+  "domain": "z789bet.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1658581450.0,
+   "expires": 1847970250.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-07-23"
+ },
+ {
+  "url": "http://www.wis-team.me/",
+  "domain": "wis-team.me",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://startpoints.top/",
+  "domain": "startpoints.top",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1607932059.0,
+   "expires": 1797234459.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-12-14"
+ },
+ {
+  "url": "http://vaobo88.com/",
+  "domain": "vaobo88.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1569839042.0,
+   "expires": 1822299842.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-09-30"
+ },
+ {
+  "url": "http://thethaovip.vip/",
+  "domain": "thethaovip.vip",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1734065453.0,
+   "expires": 1797137453.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.tudong.pro/",
+  "domain": "tudong.pro",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1572618422.67,
+   "expires": 1825079222.67
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-11-01"
+ },
+ {
+  "url": "http://96bspinadvisor.com/",
+  "domain": "96bspinadvisor.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1602232209.0,
+   "expires": 1823070609.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-10-09"
+ },
+ {
+  "url": "http://www.napfreefire.vn/",
+  "domain": "napfreefire.vn",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://ees.co.rw/",
+  "domain": "ees.co.rw",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1544437296.0,
+   "expires": 1828434096.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-12-10"
+ },
+ {
+  "url": "http://behabe.com/",
+  "domain": "behabe.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1685731073.0,
+   "expires": 1811961473.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-06-03"
+ },
+ {
+  "url": "http://www.bk8vn.vip/",
+  "domain": "bk8vn.vip",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1591357539.0,
+   "expires": 1812195939.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-06-05"
+ },
+ {
+  "url": "http://www.bimo.vn/",
+  "domain": "bimo.vn",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.tdtc.vip/",
+  "domain": "tdtc.vip",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1609818151.0,
+   "expires": 1862278951.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.truyentv.net/",
+  "domain": "truyentv.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1591116253.0,
+   "expires": 1843577053.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-06-02"
+ },
+ {
+  "url": "http://www.upsvietnam.com/",
+  "domain": "upsvietnam.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1533106155.0,
+   "expires": 1817102955.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2018-08-01"
+ },
+ {
+  "url": "http://softbuzz.net/",
+  "domain": "softbuzz.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1251015818.0,
+   "expires": 1819009418.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2009-08-23"
+ },
+ {
+  "url": "http://tpbankfico.com/",
+  "domain": "tpbankfico.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1669391959.0,
+   "expires": 1827158359.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-11-25"
+ },
+ {
+  "url": "http://choang.vip/",
+  "domain": "choang.vip",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1595931638.0,
+   "expires": 1816770038.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-07-28"
+ },
+ {
+  "url": "http://metaminer.vip/",
+  "domain": "metaminer.vip",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1652172636.0,
+   "expires": 1809939036.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.mmlive.com/",
+  "domain": "mmlive.com",
+  "verdict": "phishing",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 861854400.0,
+   "expires": 1998014400.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "1997-04-24"
+ },
+ {
+  "url": "http://www.nemo88.com/",
+  "domain": "nemo88.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1554959792.0,
+   "expires": 1807420592.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-04-11"
+ },
+ {
+  "url": "http://hotlive.life/",
+  "domain": "hotlive.life",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1620556543.827,
+   "expires": 1809858943.827
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2021-05-09"
+ },
+ {
+  "url": "http://www.easy1up.com/",
+  "domain": "easy1up.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1181338918.0,
+   "expires": 1844113318.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2007-06-09"
+ },
+ {
+  "url": "http://va88pro.com/",
+  "domain": "va88pro.com",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1579421181.0,
+   "expires": 1800345981.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2020-01-19"
+ },
+ {
+  "url": "http://newedgecu.com/",
+  "domain": "newedgecu.com",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1697871028.0,
+   "expires": 1824101428.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-10-21"
+ },
+ {
+  "url": "http://www.clmm88.me/",
+  "domain": "clmm88.me",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.17-inch.de/",
+  "domain": "17-inch.de",
+  "verdict": "suspicious",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "nan"
+ },
+ {
+  "url": "http://www.shopthanthoai.com/",
+  "domain": "shopthanthoai.com",
+  "verdict": "clean",
+  "decided_by": "D_llm",
+  "llm_unusable": false,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1550988570.0,
+   "expires": 1834985370.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2019-02-24"
+ },
+ {
+  "url": "http://yocredit.net/",
+  "domain": "yocredit.net",
+  "verdict": "suspicious",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1655712304.0,
+   "expires": 1813478704.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2022-06-20"
+ },
+ {
+  "url": "http://6688y.vip/",
+  "domain": "6688y.vip",
+  "verdict": "phishing",
+  "decided_by": "fallback_C",
+  "llm_unusable": true,
+  "rdap": {
+   "supported": 1,
+   "found": 1,
+   "registered": 1694767658.0,
+   "expires": 1789462058.0
+  },
+  "listed_by": "2024-05-16",
+  "registered_csv": "2023-09-15"
+ }
+]
