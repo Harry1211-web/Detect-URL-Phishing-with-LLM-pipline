@@ -17,10 +17,6 @@
 ├── DIRECTORY_TREE.md              This file: what each folder/file is for
 ├── LICENSE                        MIT license of the code (third-party data excluded)
 ├── DATA_SOURCES.md                Data sources: usage in the repo, upstream licenses / terms, citations
-│   Local only (not in git):
-├── .claude/skills/                Local Claude Code skills, not in git (third-party with their LICENSE; lean-task is our own token-saving workflow)
-│   Local only (not in git):
-├── .claude/skills/                Local Claude Code skills, not in git (third-party with their LICENSE; lean-task is our own token-saving workflow)
 ├── requirements.txt               Python dependencies (tested versions); DNS / TLS packages only for Layer C experiments
 ├── requirements-api.txt           Runtime-only subset for the API image (torch CPU installed separately)
 ├── Dockerfile                     API image: src/, models/url_classifier/, dataset/brands/ (data/ and .env mounted)
