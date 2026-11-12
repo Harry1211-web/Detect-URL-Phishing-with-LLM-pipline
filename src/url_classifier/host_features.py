@@ -12,7 +12,9 @@ the Tranco features (local file, no network); the network lookups then only serv
 
 from __future__ import annotations
 
+import gzip
 import ipaddress
+import os
 import json
 import math
 import socket
@@ -39,7 +41,11 @@ from url_utils import (  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 CACHE_PATH = ROOT / "data" / "host_cache.sqlite"
-TRANCO_PATH = ROOT / "data" / "tranco_top1m.csv"
+TRANCO_PATH = ROOT / "data" / "tranco_top1m.csv"  # refreshed monthly by blocklist/updater.py
+# The Tranco rank is a model feature, so serving keeps the list the saved model was trained with
+# (written by train.py) until the next retrain; the fresh monthly list only serves Layers A and B
+PINNED_TRANCO_PATH = ROOT / "models" / "url_classifier" / "tranco_top1m.csv.gz"
+RANK_PATH: Path | None = None  # override: train.py (fresh list), experiments (an older list)
 CACHE_TTL_DAYS = 7
 DNS_TIMEOUT_S = 2.0
 TLS_TIMEOUT_S = 3.0
@@ -96,16 +102,32 @@ def _cached(kind: str, key: str, fn, ttl_days: float = CACHE_TTL_DAYS,
 
 
 # ----------------------------------------------------------------------------- lookups
+def rank_path() -> Path:
+    """Tranco list used for the rank feature: override, else the pinned list, else the fresh one."""
+    if RANK_PATH is not None:
+        return RANK_PATH
+    return PINNED_TRANCO_PATH if PINNED_TRANCO_PATH.exists() else TRANCO_PATH
+
+
 def _tranco_rank() -> dict[str, int]:
-    return _tranco_rank_at(file_version(TRANCO_PATH))  # reloaded after the monthly refresh
+    p = rank_path()
+    return _tranco_rank_at(p, file_version(p))  # reloaded if the file is replaced
 
 
-@lru_cache(maxsize=1)
-def _tranco_rank_at(_version: int) -> dict[str, int]:
-    if not TRANCO_PATH.exists():
+@lru_cache(maxsize=2)
+def _tranco_rank_at(path: Path, _version: int) -> dict[str, int]:
+    if not path.exists():
         return {}
-    with TRANCO_PATH.open(encoding="utf-8") as f:
+    with (gzip.open if path.suffix == ".gz" else open)(path, "rt", encoding="utf-8") as f:
         return {ln.rstrip().split(",", 1)[1]: i + 1 for i, ln in enumerate(f)}
+
+
+def pin_tranco(src: Path = TRANCO_PATH) -> None:
+    """Store `src` next to the saved model as its rank list (atomic replace)."""
+    tmp = PINNED_TRANCO_PATH.with_name(PINNED_TRANCO_PATH.name + ".tmp")
+    with src.open("rb") as fi, gzip.open(tmp, "wb", compresslevel=9) as fo:
+        fo.write(fi.read())
+    os.replace(tmp, PINNED_TRANCO_PATH)
 
 
 def _resolver() -> dns.resolver.Resolver:

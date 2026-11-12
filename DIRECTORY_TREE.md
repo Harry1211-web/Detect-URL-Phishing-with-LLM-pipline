@@ -9,14 +9,22 @@
 ├── UI/                            Front ends; they only call the BFF
 │   ├── extension_icon.png / .svg  Source artwork of the app icon
 │   └── web/                       Web scanner and compact desktop page (React, Vite, TypeScript, Tailwind), tests, Dockerfile
+├── RUNGUIDE.md                    Setup and run steps for the whole system
+├── start.cmd / start.sh           One command to run the system (Windows / macOS): Docker services, desktop window, web link
+├── UI/                            Front ends; they only call the BFF
+│   ├── extension_icon.png / .svg  Source artwork of the app icon
+│   └── web/                       Web scanner and compact desktop page (React, Vite, TypeScript, Tailwind), tests, Dockerfile
 ├── DIRECTORY_TREE.md              This file: what each folder/file is for
 ├── LICENSE                        MIT license of the code (third-party data excluded)
 ├── DATA_SOURCES.md                Data sources: usage in the repo, upstream licenses / terms, citations
 │   Local only (not in git):
 ├── .claude/skills/                Local Claude Code skills, not in git (third-party with their LICENSE; lean-task is our own token-saving workflow)
+│   Local only (not in git):
+├── .claude/skills/                Local Claude Code skills, not in git (third-party with their LICENSE; lean-task is our own token-saving workflow)
 ├── requirements.txt               Python dependencies (tested versions); DNS / TLS packages only for Layer C experiments
 ├── requirements-api.txt           Runtime-only subset for the API image (torch CPU installed separately)
 ├── Dockerfile                     API image: src/, models/url_classifier/, dataset/brands/ (data/ and .env mounted)
+├── docker-compose.yml             api (private network only) + bff (public entry, 127.0.0.1:8080) + ui (127.0.0.1:5173) + updater (hourly)
 ├── docker-compose.yml             api (private network only) + bff (public entry, 127.0.0.1:8080) + ui (127.0.0.1:5173) + updater (hourly)
 ├── .dockerignore                  Keeps data, datasets, notebooks, reports and .env out of the image
 ├── .env                           API keys (OPENAI_API_KEY, ANTHROPIC_API_KEY, VT_API_KEY for verification only, optional OPENAI_MODEL) and budgets — not shared
@@ -79,7 +87,6 @@
 │   │   ├── phreshphish_sets.py    Builds the Layer D dev / held-out test sets (PhreshPhish pages that reach D)
 │   │   ├── redteam_prompt_injection.py     Prompt-injection red team (hidden, advanced, hard visible / multi-step /
 │   │   │                                   multilingual attacks): no defence vs production (paid API)
-│   │   ├── redteam_fake_trusted_source.py  Fake "verified by authority" red team (paid API)
 │   │   └── live_traffic_sources.py         Live Tranco / OpenPhish samplers for the benchmarks
 │   │
 │   ├── baselines/                 Layer C baselines (each model alone), same splits and rule (>= 50 % val clean recognised)
@@ -130,12 +137,14 @@
 │   └── tranco_top1m.csv           Tranco top-1M (popular-domain checks, common-token filter)
 │
 ├── models/url_classifier/         Production Layer C: dl_a.pt + dl_b.pt (cross-fitted DL), ml_lexical.*, ml_host.*, config.json;
-│                                  dom_model.* + dom_config.json (DOM model and combination rule)
-├── models/layer_c_selection/      Candidate DL weights, scores and feature cache of layer_c_selection.py (not in git)
+│                                  dom_model.* + dom_config.json (DOM model and combination rule); tranco_top1m.csv.gz = Tranco
+│                                  list the model was trained with (rank feature; data/tranco_top1m.csv only serves A / B)
+├── models/layer_c_selection/      Candidate DL weights, scores and feature cache of layer_c_selection.py (seed<N>/ = seed-variance runs; not in git)
 └── reports/                       Evaluation outputs (JSON) of every layer (live/ = evaluate_live.py,
                                    baselines/ = src/baselines, relabel/ = relabel_subset.py + hand_review.csv
-                                   (label-noise candidates of test / VN / PhreshPhish for hand labelling), layer_c_selection/ =
-                                   DL / ML / DOM candidates, feature-group ablation (_network = with DNS / TLS / RDAP), host_lookups.json = network vs
+                                   (label-noise candidates of test / VN / PhreshPhish for hand labelling), llm/layer_d/prompt_variants.md = summary of
+                                   the dev prompt variants, layer_c_selection/ =
+                                   DL / ML / DOM candidates (dl_seed<N> / ml_seed<N> = seed-variance runs, ml_<arch>_dlseed<N>_xgboost = XGBoost on another DL run), feature-group ablation (_network = with DNS / TLS / RDAP), host_lookups.json = network vs
                                    Tranco-only Layer C, benchmark.json = notebook summary, summary.md = result tables)
     └── paper_experiments/         Runs behind the paper: scripts/ (mount this folder at /exp in the phishing-api image; e1_live.py clean side failed, e1b_live.py redoes it), results/, figures/
 ```
