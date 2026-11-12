@@ -17,8 +17,13 @@ hosts (reports with the suffix _network).
 Test, PhreshPhish and the Vietnamese set are scored for every candidate and reported, but never
 used to choose. The winning pair is then trained into production with
   python src/url_classifier/train.py --dl <arch> --ml <ml> --dl-dir models/layer_c_selection
-Run:    python src/layer_c_selection.py dl [--archs ...]
-        python src/layer_c_selection.py ml [--dl <arch>] [--host-lookups none|network]
+Run:    python src/layer_c_selection.py dl [--archs ...] [--seed N]
+        (--seed other than 42: seed-variance run, weights in models/layer_c_selection/seed<N>/,
+        report dl_seed<N>.json; the chosen candidates and dl.json stay untouched)
+        python src/layer_c_selection.py ml [--dl <arch>] [--host-lookups none|network] [--seed N]
+        (--seed other than 42: ML seed-variance run on the seed-42 DL scores, report ml_seed<N>.json;
+        --dl-seed N reads the DL scores of a dl --seed N run, --ml keeps one classifier; any
+        non-default choice gets its own report suffix, so ml.json is never overwritten)
         python src/layer_c_selection.py ablation [--seeds 42 43 44] [--host-lookups none|network]
         (ablation resumes a partial report)
 Output: reports/layer_c_selection/{dl,ml,ablation}.json (+ ml_network / ablation_network.json),
@@ -72,18 +77,22 @@ def _save(name: str, out: dict) -> None:
     (OUT_DIR / f"{name}.json").write_text(json.dumps(out, indent=2), encoding="utf-8")
 
 
-def step_dl(archs: list[str], epochs: int) -> int:
+def step_dl(archs: list[str], epochs: int, seed: int = SEED) -> int:
     device = "cuda" if torch.cuda.is_available() else "cpu"
     splits, tr = _splits()
     b_flags = common.b_flags_for(splits)
-    path = OUT_DIR / "dl.json"
+    # Another seed retrains from scratch in its own folder, so the selection run is never overwritten
+    name = "dl" if seed == SEED else f"dl_seed{seed}"
+    sel = SEL_DIR if seed == SEED else SEL_DIR / f"seed{seed}"
+    sel.mkdir(parents=True, exist_ok=True)
+    path = OUT_DIR / f"{name}.json"
     out = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"candidates": {}}
     for arch in archs:
         t0 = time.time()
-        models, oof, log = T.cross_fit_dl(arch, tr, splits["val"], device, epochs, SEED,
-                                          dl_dir=SEL_DIR, save_dir=SEL_DIR)
+        models, oof, log = T.cross_fit_dl(arch, tr, splits["val"], device, epochs, seed,
+                                          dl_dir=sel, save_dir=sel)
         scores = {s: T.dl_scores(models, arch, splits[s].url.tolist(), device) for s in EVAL}
-        np.savez_compressed(SEL_DIR / f"scores_{arch}.npz", train=oof, **scores)
+        np.savez_compressed(sel / f"scores_{arch}.npz", train=oof, **scores)
         res = common.evaluate_scores(arch, scores, splits, b_flags, {
             "training": log, "seconds": round(time.time() - t0),
             "parameters": sum(p.numel() for p in models[0].parameters())})
@@ -94,8 +103,8 @@ def step_dl(archs: list[str], epochs: int) -> int:
         torch.cuda.empty_cache()
     out.update({"time": datetime.now(timezone.utc).isoformat(), "rule": res["rule"] + "; ties: val PR-AUC",
                 "winner": _winner(out["candidates"]), "epochs_max": epochs,
-                "patience": T.DL_PATIENCE})
-    _save("dl", out)
+                "patience": T.DL_PATIENCE, "seed": seed})
+    _save(name, out)
     print("DL winner:", out["winner"])
     return 0
 
@@ -116,18 +125,23 @@ def _base(name: str, d, network: bool) -> dict:
     return b
 
 
-def step_ml(arch: str | None, network: bool) -> int:
-    arch = arch or json.loads((OUT_DIR / "dl.json").read_text(encoding="utf-8"))["winner"]
+def step_ml(arch: str | None, network: bool, seed: int = SEED, dl_seed: int = SEED,
+            only: str | None = None) -> int:
+    winner = json.loads((OUT_DIR / "dl.json").read_text(encoding="utf-8"))["winner"]
+    arch = arch or winner
+    suffix = (("" if arch == winner else f"_{arch}") + ("" if dl_seed == SEED else f"_dlseed{dl_seed}")
+              + (f"_{only}" if only else "") + ("" if seed == SEED else f"_seed{seed}"))
     splits, tr = _splits()
     b_flags = common.b_flags_for(splits)
-    z = np.load(SEL_DIR / f"scores_{arch}.npz")
+    z = np.load((SEL_DIR if dl_seed == SEED else SEL_DIR / f"seed{dl_seed}") / f"scores_{arch}.npz")
     sets = {"train": tr, **{s: splits[s] for s in EVAL}}
     M = {k: T.with_dl_score(_base(k, d, network), z[k]) for k, d in sets.items()}
     y = {k: d.y.to_numpy() for k, d in sets.items()}
-    out = {"dl": arch, "host_lookups": "network" if network else "none", "candidates": {}}
-    for ml in T.ML_MODELS:
+    out = {"dl": arch, "dl_seed": dl_seed, "host_lookups": "network" if network else "none", "seed": seed,
+           "candidates": {}}
+    for ml in ([only] if only else T.ML_MODELS):
         t0 = time.time()
-        B = T.fit_branches(ml, M, y, SEED)
+        B = T.fit_branches(ml, M, y, seed)
         res = common.evaluate_scores(ml, {s: B["score"][s] for s in EVAL}, splits, b_flags,
                                      {"train_seconds": B["train_seconds"],
                                       "seconds": round(time.time() - t0)})
@@ -137,7 +151,7 @@ def step_ml(arch: str | None, network: bool) -> int:
     out.update({"time": datetime.now(timezone.utc).isoformat(),
                 "rule": res["rule"] + " (routed host / lexical score); ties: val PR-AUC",
                 "winner": _winner(out["candidates"])})
-    _save(_report("ml", network), out)
+    _save(_report("ml", network) + suffix, out)
     print("ML winner:", out["winner"])
     return 0
 
@@ -261,10 +275,15 @@ def main() -> int:
     ap.add_argument("step", choices=("dl", "ml", "ablation"))
     ap.add_argument("--archs", nargs="+", choices=tuple(DL_ARCHS), default=list(DL_ARCHS))
     ap.add_argument("--epochs", type=int, default=12)
+    ap.add_argument("--seed", type=int, default=SEED,
+                    help="dl / ml step: training seed (default 42 = the selection run)")
     ap.add_argument("--dl", choices=tuple(DL_ARCHS), default=None,
                     help="ml / ablation step: DL architecture (default: winner of the dl step)")
     ap.add_argument("--ml", choices=T.ML_MODELS, default=None,
-                    help="ablation step: ML classifier (default: winner of the ml step)")
+                    help="ablation step: ML classifier (default: winner of the ml step); "
+                         "ml step: fit only this classifier")
+    ap.add_argument("--dl-seed", type=int, default=SEED,
+                    help="ml step: DL scores of the dl run with this seed")
     ap.add_argument("--seeds", type=int, nargs="+", default=[42, 43, 44],
                     help="ablation step: one refit per seed and configuration")
     ap.add_argument("--host-lookups", choices=("none", "network"), default="none",
@@ -272,9 +291,9 @@ def main() -> int:
     args = ap.parse_args()
     network = args.host_lookups == "network"
     if args.step == "dl":
-        return step_dl(args.archs, args.epochs)
+        return step_dl(args.archs, args.epochs, args.seed)
     if args.step == "ml":
-        return step_ml(args.dl, network)
+        return step_ml(args.dl, network, args.seed, args.dl_seed, args.ml)
     return step_ablation(args.dl, args.ml, args.seeds, network)
 
 

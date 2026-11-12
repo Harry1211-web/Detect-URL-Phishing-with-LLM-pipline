@@ -1,0 +1,92 @@
+{
+  "dl": "bilstm",
+  "dl_seed": 44,
+  "host_lookups": "none",
+  "seed": 42,
+  "candidates": {
+    "xgboost": {
+      "model": "xgboost",
+      "time": "2026-11-11T19:59:57.171745+00:00",
+      "rule": "threshold = lowest score recognising >= 50% of val clean",
+      "threshold": 0.0033945820759981875,
+      "val": {
+        "phishing": 38386,
+        "phishing_missed": 16,
+        "miss_rate": 0.00042,
+        "clean": 40598,
+        "clean_recognized": 0.49998,
+        "threshold": 0.0033945820759981875,
+        "roc_auc": 0.98784,
+        "pr_auc": 0.98892
+      },
+      "train_seconds": {
+        "lexical": 15,
+        "host": 20
+      },
+      "seconds": 35,
+      "test": {
+        "roc_auc": 0.98891,
+        "pr_auc": 0.98939,
+        "alone": {
+          "phishing": 38800,
+          "phishing_missed": 10,
+          "miss_rate": 0.00026,
+          "clean": 42425,
+          "clean_recognized": 0.50994,
+          "verified_phishing": 5549,
+          "verified_missed": 4,
+          "verified_miss_rate": 0.00072
+        },
+        "with_B": {
+          "phishing": 38800,
+          "phishing_missed": 10,
+          "miss_rate": 0.00026,
+          "clean": 42425,
+          "clean_recognized": 0.50826,
+          "verified_phishing": 5549,
+          "verified_missed": 4,
+          "verified_miss_rate": 0.00072
+        }
+      },
+      "phreshphish": {
+        "roc_auc": 0.96479,
+        "pr_auc": 0.96625,
+        "alone": {
+          "phishing": 9991,
+          "phishing_missed": 41,
+          "miss_rate": 0.0041,
+          "clean": 10003,
+          "clean_recognized": 0.46326
+        },
+        "with_B": {
+          "phishing": 9991,
+          "phishing_missed": 37,
+          "miss_rate": 0.0037,
+          "clean": 10003,
+          "clean_recognized": 0.46136
+        }
+      },
+      "vi": {
+        "roc_auc": 0.99535,
+        "pr_auc": 0.99753,
+        "alone": {
+          "phishing": 2681,
+          "phishing_missed": 12,
+          "miss_rate": 0.00448,
+          "clean": 1584,
+          "clean_recognized": 0.63763
+        },
+        "with_B": {
+          "phishing": 2681,
+          "phishing_missed": 12,
+          "miss_rate": 0.00448,
+          "clean": 1584,
+          "clean_recognized": 0.63636
+        }
+      }
+    }
+  },
+  "time": "2026-11-11T19:59:57.262784+00:00",
+  "rule": "threshold = lowest score recognising >= 50% of val clean (routed host / lexical score); ties: val PR-AUC",
+  "winner": "xgboost"
+}

@@ -24,7 +24,8 @@ Run:    python src/url_classifier/train.py --dl <arch> --ml <xgboost|lightgbm|ra
                                          [--host-lookups none|network]
         python src/url_classifier/train.py --thresholds-only   (refit the segment thresholds of
                                                                  the saved models, no training)
-Output: models/url_classifier/{dl_a.pt, dl_b.pt, ml_lexical.*, ml_host.*, config.json},
+Output: models/url_classifier/{dl_a.pt, dl_b.pt, ml_lexical.*, ml_host.*, config.json,
+        tranco_top1m.csv.gz (the Tranco list the model was trained with, used when serving)},
         reports/url_classifier/metrics.json
 """
 
@@ -117,7 +118,13 @@ def train_dl(arch: str, x_tr: tuple, y_tr: np.ndarray, x_va: tuple, y_va: np.nda
             nn.utils.clip_grad_norm_(model.parameters(), 1.0)
             opt.step()
             tot += loss.item() * len(b)
-        auc = roc_auc_score(y_va, predict_logits(model, x_va, device))
+            done = i // 512 + 1; n_b = -(-len(idx) // 512); step = max(1, n_b // 20)
+            if done % step == 0 and done < n_b:  # in-place progress line every ~5 % of the epoch
+                el = time.time() - t0
+                print(f"\r  {arch} epoch {ep}: {100 * done / n_b:3.0f}% "
+                      f"({el:.0f}s, ETA {el / done * (n_b - done):.0f}s)", end="", flush=True)
+        print("\r", end="")
+        auc =roc_auc_score(y_va, predict_logits(model, x_va, device))
         log.append({"epoch": ep, "val_auc": round(float(auc), 5), "seconds": round(time.time() - t0)})
         print(f"  {arch} epoch {ep}: loss={tot / len(idx):.4f} val_auc={auc:.5f} "
               f"({time.time() - t0:.0f}s)", flush=True)
@@ -460,6 +467,7 @@ def main() -> int:
         return thresholds_only()
     device = "cuda" if torch.cuda.is_available() else "cpu"
     network = args.host_lookups == "network"
+    hf.RANK_PATH = hf.TRANCO_PATH  # a full retrain uses the fresh list, pinned with the models below
 
     tr, va, te, n_noisy = load_splits()
     print(f"train={len(tr)} (DL part a {int(tr.dl_part.sum())}) val={len(va)} test={len(te)} "
@@ -534,6 +542,7 @@ def main() -> int:
     ext = ML_EXT[args.ml]
     save_ml(args.ml, B["lex"], MODEL_DIR / f"ml_lexical.{ext}")
     save_ml(args.ml, B["host"], MODEL_DIR / f"ml_host.{ext}")
+    hf.pin_tranco(hf.TRANCO_PATH)
     for old in ("cnn.pt", "cnn_b.pt", "xgb_lexical.json", "xgb_host.json", "xgb.json",
                 "cnn_b_experiment.pt", *(f"ml_{b}.{e}" for b in ("lexical", "host")
                                          for e in ML_EXT.values() if e != ext)):

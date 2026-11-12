@@ -1,0 +1,183 @@
+{
+ "uses_network": false,
+ "test": {
+  "gate_all": {
+   "n_ph": 38800,
+   "missed": 12,
+   "n_cl": 42425,
+   "cleared": 22245
+  },
+  "separation": {
+   "ranked": {
+    "n_ph": 13619,
+    "n_cl": 28131,
+    "roc_auc": 0.9993,
+    "pr_auc": 0.999,
+    "miss_at_clear_10": [
+     0,
+     0.0
+    ],
+    "miss_at_clear_25": [
+     0,
+     0.0
+    ],
+    "miss_at_clear_50": [
+     4,
+     0.029
+    ]
+   },
+   "unranked": {
+    "n_ph": 25181,
+    "n_cl": 14294,
+    "roc_auc": 0.959,
+    "pr_auc": 0.9803,
+    "miss_at_clear_10": [
+     35,
+     0.139
+    ],
+    "miss_at_clear_25": [
+     185,
+     0.735
+    ],
+    "miss_at_clear_50": [
+     702,
+     2.788
+    ]
+   }
+  },
+  "ranked_split": {
+   "shared_platform": {
+    "n_ph": 12918,
+    "missed": 1,
+    "n_cl": 28,
+    "cleared": 1
+   },
+   "other_ranked": {
+    "n_ph": 701,
+    "missed": 11,
+    "n_cl": 28103,
+    "cleared": 22103
+   }
+  }
+ },
+ "phreshphish": {
+  "gate_all": {
+   "n_ph": 9991,
+   "missed": 43,
+   "n_cl": 10003,
+   "cleared": 4413
+  },
+  "separation": {
+   "ranked": {
+    "n_ph": 4839,
+    "n_cl": 7452,
+    "roc_auc": 0.9889,
+    "pr_auc": 0.9866,
+    "miss_at_clear_10": [
+     0,
+     0.0
+    ],
+    "miss_at_clear_25": [
+     5,
+     0.103
+    ],
+    "miss_at_clear_50": [
+     28,
+     0.579
+    ]
+   },
+   "unranked": {
+    "n_ph": 5152,
+    "n_cl": 2551,
+    "roc_auc": 0.8669,
+    "pr_auc": 0.932,
+    "miss_at_clear_10": [
+     21,
+     0.408
+    ],
+    "miss_at_clear_25": [
+     75,
+     1.456
+    ],
+    "miss_at_clear_50": [
+     506,
+     9.821
+    ]
+   }
+  },
+  "ranked_split": {
+   "shared_platform": {
+    "n_ph": 4445,
+    "missed": 0,
+    "n_cl": 72,
+    "cleared": 0
+   },
+   "other_ranked": {
+    "n_ph": 394,
+    "missed": 41,
+    "n_cl": 7380,
+    "cleared": 4373
+   }
+  }
+ },
+ "vn": {
+  "gate_all": {
+   "n_ph": 2681,
+   "missed": 15,
+   "n_cl": 1584,
+   "cleared": 898
+  },
+  "separation": {
+   "ranked": {
+    "n_ph": 67,
+    "n_cl": 1573,
+    "roc_auc": 0.7936,
+    "pr_auc": 0.4841,
+    "miss_at_clear_10": [
+     0,
+     0.0
+    ],
+    "miss_at_clear_25": [
+     4,
+     5.97
+    ],
+    "miss_at_clear_50": [
+     12,
+     17.91
+    ]
+   },
+   "unranked": {
+    "n_ph": 2614,
+    "n_cl": 11,
+    "roc_auc": 0.8167,
+    "pr_auc": 0.9987,
+    "miss_at_clear_10": [
+     67,
+     2.563
+    ],
+    "miss_at_clear_25": [
+     79,
+     3.022
+    ],
+    "miss_at_clear_50": [
+     92,
+     3.52
+    ]
+   }
+  },
+  "ranked_split": {
+   "shared_platform": {
+    "n_ph": 1,
+    "missed": 0,
+    "n_cl": 0,
+    "cleared": 0
+   },
+   "other_ranked": {
+    "n_ph": 66,
+    "missed": 15,
+    "n_cl": 1573,
+    "cleared": 898
+   }
+  }
+ }
+}

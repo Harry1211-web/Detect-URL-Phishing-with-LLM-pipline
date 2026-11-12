@@ -79,7 +79,6 @@
 │   │   ├── phreshphish_sets.py    Builds the Layer D dev / held-out test sets (PhreshPhish pages that reach D)
 │   │   ├── redteam_prompt_injection.py     Prompt-injection red team (hidden, advanced, hard visible / multi-step /
 │   │   │                                   multilingual attacks): no defence vs production (paid API)
-│   │   ├── redteam_fake_trusted_source.py  Fake "verified by authority" red team (paid API)
 │   │   └── live_traffic_sources.py         Live Tranco / OpenPhish samplers for the benchmarks
 │   │
 │   ├── baselines/                 Layer C baselines (each model alone), same splits and rule (>= 50 % val clean recognised)
@@ -130,12 +129,16 @@
 │   └── tranco_top1m.csv           Tranco top-1M (popular-domain checks, common-token filter)
 │
 ├── models/url_classifier/         Production Layer C: dl_a.pt + dl_b.pt (cross-fitted DL), ml_lexical.*, ml_host.*, config.json;
-│                                  dom_model.* + dom_config.json (DOM model and combination rule)
-├── models/layer_c_selection/      Candidate DL weights, scores and feature cache of layer_c_selection.py (not in git)
+│                                  dom_model.* + dom_config.json (DOM model and combination rule); tranco_top1m.csv.gz = Tranco
+│                                  list the model was trained with (rank feature; data/tranco_top1m.csv only serves A / B)
+├── models/layer_c_selection/      Candidate DL weights, scores and feature cache of layer_c_selection.py (seed<N>/ = seed-variance runs; not in git)
 └── reports/                       Evaluation outputs (JSON) of every layer (live/ = evaluate_live.py,
                                    baselines/ = src/baselines, relabel/ = relabel_subset.py + hand_review.csv
-                                   (label-noise candidates of test / VN / PhreshPhish for hand labelling), layer_c_selection/ =
-                                   DL / ML / DOM candidates, feature-group ablation (_network = with DNS / TLS / RDAP), host_lookups.json = network vs
+                                   (label-noise candidates of test / VN / PhreshPhish for hand labelling), llm/layer_d/prompt_variants.md = summary of
+                                   the dev prompt variants, layer_c_selection/ =
+                                   DL / ML / DOM candidates (dl_seed<N> / ml_seed<N> = seed-variance runs, ml_<arch>_dlseed<N>_xgboost = XGBoost on another DL run), feature-group ablation (_network = with DNS / TLS / RDAP), host_lookups.json = network vs
                                    Tranco-only Layer C, benchmark.json = notebook summary, summary.md = result tables)
-    └── paper_experiments/         Runs behind the paper: scripts/ (mount this folder at /exp in the phishing-api image; e1_live.py clean side failed, e1b_live.py redoes it), results/, figures/
+    └── paper_experiments/         Runs behind the paper: scripts/ (mount this folder at /exp in the phishing-api image; e1_live.py = fresh feed on unseen domains, its clean side failed;
+                                   e1b_live.py = fresh feed on seen domains + the clean side; e4_strata.py = score separation inside Tranco strata,
+                                   also runs locally; TRANCO=<csv> overrides the Tranco list pinned with the model), results/, figures/
 ```
